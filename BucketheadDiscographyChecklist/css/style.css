@@ -1,0 +1,18 @@
+.pages {
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    width: 100%;
+    position: fixed;
+}
+
+.page {
+    cursor: pointer;
+}
+
+.html {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: Helvetica;
+}

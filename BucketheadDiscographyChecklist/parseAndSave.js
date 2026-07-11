@@ -6,7 +6,7 @@ const wikiUrl = "https://en.wikipedia.org/wiki/Buckethead_discography";
 const outputFilePath = path.join(process.cwd(), "bucketheadDiscographyChecklist/js/bucketheadDiscography.js");
 
 function templateDiscographyData(data) {
-  return `export const bucketheadDiscography = ${JSON.stringify(data, null, 2)};`;
+  return `const bucketheadDiscography = ${JSON.stringify(data, null, 2)};`;
 }
 
 async function fetchDiscography() {
@@ -145,7 +145,7 @@ async function main() {
   try {
     const discographyData = await fetchDiscography();
     const fileContent = templateDiscographyData(discographyData);
-    fs.appendFileSync(outputFilePath, fileContent, "utf8");
+    fs.writeFileSync(outputFilePath, fileContent, { encoding: "utf-8", flag: "w" });
     console.log(`Saved discography data to ${outputFilePath}`);
   } catch (error) {
     console.error("Failed to fetch and save discography data:", error);
