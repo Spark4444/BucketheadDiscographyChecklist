@@ -82,6 +82,60 @@ body {
     flex-direction: column;
 }
 
+.searchBar {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    gap: 0.8vw;
+    margin-bottom: 1vw;
+    padding: 1vw;
+    border-radius: 1vw;
+    background: rgba(34, 28, 40, 0.95);
+    border: 0.1vw solid rgba(255, 255, 255, 0.08);
+}
+
+.searchBar label {
+    color: var(--muted-color);
+    font-size: 0.9vw;
+    user-select: none;
+}
+
+.pageSearch {
+    flex: 1;
+    min-width: 20vw;
+    padding: 0.8vw 1vw;
+    font-size: 0.9vw;
+    border-radius: 0.8vw;
+    border: 0.1vw solid rgba(255, 255, 255, 0.12);
+    background: rgba(255, 255, 255, 0.04);
+    color: var(--text-color);
+    outline: none;
+}
+
+.pageSearch::-webkit-search-cancel-button {
+    -webkit-appearance: none;
+    height: 1.2vw;
+    width: 1.2vw;
+    background: url("../img/x.svg") no-repeat center center;
+    cursor: pointer;
+    background-size: 100% 100%;
+}
+
+.pageSearch::placeholder {
+    color: rgba(180, 169, 196, 0.65);
+}
+
+.noResultsMessage {
+    margin-top: 1vw;
+    padding: 1vw;
+    border-radius: 1vw;
+    background: rgba(255, 255, 255, 0.06);
+    border: 0.1vw solid rgba(209, 138, 255, 0.16);
+    color: var(--muted-color);
+    font-size: 0.95vw;
+    text-align: center;
+}
+
 .section {
     padding: 1vw;
     border-radius: 1vw;

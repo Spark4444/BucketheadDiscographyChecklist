@@ -1,5 +1,5 @@
 let sections = Object.keys(bucketheadDiscography);
-let titleCaseSections = sections.map(section => {
+let titleCaseSections = sections.map((section) => {
     return camelCaseToTitleCase(section);
 });
 
@@ -7,7 +7,6 @@ const main = document.querySelector(".main");
 
 // Function to generate the layout of the page
 function generateLayout() {
-
     // Create the pages container
     const pages = document.createElement("div");
     pages.classList.add("pages");
@@ -24,6 +23,8 @@ function generateLayout() {
     const mainContentDiv = document.createElement("div");
     mainContentDiv.classList.add("mainContent");
     main.appendChild(mainContentDiv);
+
+    createSearchInput();
 }
 
 // Function to generate the details of an item from Object
@@ -64,6 +65,16 @@ function loadPageContent(section) {
             const itemDiv = generateItemDetails(item);
             mainContentDiv.appendChild(itemDiv);
         });
+    }
+
+    const noResultsDiv = document.createElement("div");
+    noResultsDiv.classList.add("noResultsMessage");
+    noResultsDiv.textContent = "No matching items found.";
+    noResultsDiv.style.display = "none";
+    mainContentDiv.appendChild(noResultsDiv);
+
+    if (typeof applySearchToContent === "function") {
+        applySearchToContent();
     }
 }
 
