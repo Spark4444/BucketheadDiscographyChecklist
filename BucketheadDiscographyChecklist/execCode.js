@@ -3,14 +3,14 @@ const finalData = {
   Pikes: [],
   LiveAlbums: [],
   SpecialReleases: [],
-  Eps: []
+  Eps: [],
+  collabs: []
 };
 
 // General function to parse a table and return an array of objects
 let currentYear = null;
 let currentYearRowSpan = 0;
-function parseTable(tableSelector, fieldNames) {
-  const table = document.querySelector(tableSelector);
+function parseTable(table, fieldNames) {
   if (!table) {
     return [];
   }
@@ -66,9 +66,34 @@ function parseTable(tableSelector, fieldNames) {
   });
 }
 
-finalData.Albums = parseTable("#mwHw", ["overallIndex", "title", "length"]);
-finalData.Pikes = parseTable("#mwAa8", ["overallIndex", "pikeIndex", "title", "length"]);
-finalData.LiveAlbums = parseTable("#mwEmY", ["pikeIndex", "title", "length"]);
-finalData.SpecialReleases = parseTable("#mwEhE", ["albumDetails"]);
-finalData.Eps = parseTable("#mwEkk", ["albumDetails"]);
+function parseAlbumDetails(details) {
+  const lines = String(details).split(/\r?\n/).map(line => line.trim()).filter(Boolean);
+  const title = lines[0] || "";
+  const lengthLine = lines.find(line => /^Length:\s*/i.test(line));
+  const length = lengthLine ? lengthLine.replace(/^Length:\s*/i, "").trim() : "";
+  return { title, length };
+}
+
+const tables = document.querySelectorAll(".wikitable");
+const albums = tables[0];
+const pikes = tables[1];
+const specialReleases = tables[2];
+const eps = tables[3];
+const liveAlbums = tables[4];
+
+finalData.Albums = parseTable(albums, ["overallIndex", "title", "length"]);
+finalData.Pikes = parseTable(pikes, ["overallIndex", "pikeIndex", "title", "length"]);
+finalData.LiveAlbums = parseTable(liveAlbums, ["pikeIndex", "title", "length"]);
+finalData.SpecialReleases = parseTable(specialReleases, ["albumDetails"]).map(({ year, albumDetails }) => ({
+  year,
+  ...parseAlbumDetails(albumDetails)
+}));
+finalData.Eps = parseTable(eps, ["albumDetails"]).map(({ year, albumDetails }) => ({
+  year,
+  ...parseAlbumDetails(albumDetails)
+}));
+
+
+
+
 console.log(finalData);
