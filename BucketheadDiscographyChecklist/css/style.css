@@ -1,75 +1,144 @@
 :root {
-    --background-color: #2a292f;
-    --color: white;
-    --secondary-background-color: #322d41;
-    --highlight-color: #5a2f4a;
+    --background-color: #17141b;
+    --surface-color: #232027;
+    --surface-alt: #2f2a35;
+    --accent-color: #8f63b9;
+    --accent-strong: #d18aff;
+    --text-color: #f4eefb;
+    --muted-color: #b4a9c4;
+    --border-color: rgba(255, 255, 255, 0.08);
+}
+
+*, ::before, ::after {
+    box-sizing: border-box;
+}
+
+html, body {
+    margin: 0;
+    padding: 0;
+    min-height: 100vh;
+    background: radial-gradient(circle at center top, rgba(143, 99, 185, 0.14), transparent 30%), linear-gradient(rgb(31, 26, 36) 0%, rgb(23, 20, 27) 100%);
+    color: var(--text-color);
+}
+
+body {
+    overflow: hidden scroll;
+    font-family: helvetica;
+}
+
+.main {
+    max-width: 66vw;
+    margin: 0 auto;
+    padding: 1.2vw 1.2vw 2.5vw;
 }
 
 .pages {
-    display: flex;
-    align-items: center;
-    justify-content: space-evenly;
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(1vw, 1fr));
+    gap: 0.6vw;
+    align-items: stretch;
     width: 100%;
-    height: 8vh;
-    background: var(--secondary-background-color);
-    color: var(--color);
+    padding: 0.6vw;
+    margin-bottom: 1.2vw;
+    background: rgba(34, 28, 40, 0.95);
+    border: 0.1vw solid rgba(255, 255, 255, 0.08);
+    border-radius: 1vw;
     position: sticky;
-    top: 0px;
+    top: 1vw;
+    z-index: 9999;
 }
 
 .page {
     cursor: pointer;
-    height: 100%;
     display: flex;
     align-items: center;
     justify-content: center;
-    width: 15%;
-    font-size: 1.1vw;
-    transition: 0.5s linear;
-    border-left: 0.15vw solid var(--color);
+    padding: 9% 10%;
+    font-size: 0.75vw;
+    text-align: center;
+    color: var(--muted-color);
+    background: rgba(255, 255, 255, 0.03);
+    border-radius: 1vw;
+    transition: transform 0.25s, background 0.25s, color 0.25s;
+    border: 0.1vw solid transparent;
+    user-select: none;
 }
 
 .page:hover {
-    background: var(--highlight-color);
+    transform: translateY(-0.1vw);
+    background: rgba(143, 99, 185, 0.18);
+    color: var(--text-color);
 }
 
-.html {
-    padding: 0px;
-    margin: 0px;
-    box-sizing: border-box;
-}
-
-body {
-    background: var(--background-color);
-    font-family: helvetica;
-    color: var(--color);
-    margin: 0px;
-    padding: 0px;
-    overflow-x: hidden;
-    overflow-y: scroll;
-}
-
-.active {
-    background: var(--highlight-color);
-}
-
-.itemDetails {
-    font-size: 1vw;
-    display: flex;
-    width: 100%;
-    align-items: center;
-    justify-content: flex-start;
-    margin: 2% 0;
-}
-
-.itemTitle {
-    font-size: 1.1vw;
-    font-weight: bold;
-    width: 100%;
-    padding: 0 0 0 1%;
-    margin: 4% 0;
+.page.active {
+    background: linear-gradient(135deg, rgba(143, 99, 185, 0.3), rgba(209, 138, 255, 0.16));
+    color: var(--text-color);
+    border-color: rgba(143, 99, 185, 0.4);
 }
 
 .mainContent {
-    padding: 0 0 0 1%;
+    display: flex;
+    gap: 1vw;
+    flex-direction: column;
+}
+
+.section {
+    padding: 1vw;
+    border-radius: 1vw;
+    background: rgba(26, 22, 31, 0.92);
+    border: 0.1vw solid rgba(255, 255, 255, 0.08);
+    gap: 1vw;
+    display: flex;
+    flex-direction: column;
+}
+
+.itemDetails {
+    display: flex;
+    align-items: center;
+    padding: 0.8vw 1vw;
+    border-radius: 1vw;
+    height: min-content;
+    background: rgba(255, 255, 255, 0.03);
+    border: 0.1vw solid rgba(255, 255, 255, 0.06);
+    transition: transform 0.2s, background 0.2s;
+    justify-content: space-between;
+}
+
+.itemDetails:hover {
+    transform: translateY(-0.1vw);
+    background: rgba(143, 99, 185, 0.08);
+}
+
+.itemText {
+    font-size: 0.9vw;
+    color: var(--text-color);
+    white-space: pre-wrap;
+}
+
+.itemTitle {
+    margin: 0.3vw 0;
+    font-size: 0.95vw;
+    font-weight: 700;
+    color: var(--accent-strong);
+}
+
+.itemCheckbox {
+    width: 1.1vw;
+    height: 1.1vw;
+    background-color: white;
+    cursor: pointer;
+    border: none;
+    outline: none;
+    margin: 0;
+    border-radius: 0;
+    -webkit-appearance: none;
+    appearance: none;
+}
+
+.itemCheckbox:checked {
+    background-color: var(--accent-color);
+    background-image: url("../img/tick.svg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 100% 100%;
 }

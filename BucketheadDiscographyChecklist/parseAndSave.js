@@ -22,7 +22,7 @@ async function fetchDiscography() {
       LiveAlbums: [],
       SpecialReleases: [],
       Eps: [],
-      CollaborationsAndProjects: [],
+      Collaborations: [],
       GuestAppearances: [],
     };
 
@@ -113,8 +113,8 @@ async function fetchDiscography() {
     const liveAlbums = tables[4];
 
     finalData.Albums = parseTable(albums, ["overallIndex", "title", "length"]);
-    finalData.Pikes = parseTable(pikes, ["pikeIndex", "title", "length"]);
-    finalData.LiveAlbums = parseTable(liveAlbums, ["pikeIndex", "title", "length"]);
+    finalData.Pikes = parseTable(pikes, ["overallIndex", "title", "length"]);
+    finalData.LiveAlbums = parseTable(liveAlbums, ["overallIndex", "title", "length"]);
     finalData.SpecialReleases = parseTable(specialReleases, ["albumDetails"]).map(({ year, albumDetails }) => ({
       year,
       ...parseAlbumDetails(albumDetails),
@@ -124,7 +124,7 @@ async function fetchDiscography() {
       ...parseAlbumDetails(albumDetails),
     }));
 
-    finalData.CollaborationsAndProjects = parseSectionList('[aria-labelledby="Bands_and_projects"]', (text) => {
+    finalData.Collaborations = parseSectionList('[aria-labelledby="Bands_and_projects"]', (text) => {
       const [year, title] = text.split(":").map((part) => part.trim());
       return { year, title };
     });

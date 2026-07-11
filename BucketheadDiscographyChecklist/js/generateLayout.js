@@ -31,7 +31,7 @@ function generateItemDetails(item) {
     const itemDetailsDiv = document.createElement("div");
     itemDetailsDiv.classList.add("itemDetails");
     itemDetailsDiv.innerHTML = `
-        <div class="itemText">${item.overallIndex ? `${item.overallIndex}. ` : item.pikeIndex ? ` ${item.pikeIndex}. ` : ""}"${item.title}"${item.length ? ` (${item.length})` : ""} - ${item.year}</div>
+        <div class="itemText">${item.overallIndex ? `${item.overallIndex}. ` : ""}"${item.title}"${item.length ? ` (${item.length})` : ""} - ${item.year}</div>
         <input type="checkbox" class="itemCheckbox" />
     `;
     return itemDetailsDiv;
@@ -45,7 +45,7 @@ function loadPageContent(section) {
 
     if (
       section === "GuestAppearances" ||
-      section === "CollaborationsAndProjects"
+      section === "Collaborations"
     ) {
         sectionData.forEach((item) => {
             const itemDiv = document.createElement("div");
