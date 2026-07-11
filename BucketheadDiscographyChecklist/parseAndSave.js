@@ -113,7 +113,7 @@ async function fetchDiscography() {
     const liveAlbums = tables[4];
 
     finalData.Albums = parseTable(albums, ["overallIndex", "title", "length"]);
-    finalData.Pikes = parseTable(pikes, ["overallIndex", "pikeIndex", "title", "length"]);
+    finalData.Pikes = parseTable(pikes, ["pikeIndex", "title", "length"]);
     finalData.LiveAlbums = parseTable(liveAlbums, ["pikeIndex", "title", "length"]);
     finalData.SpecialReleases = parseTable(specialReleases, ["albumDetails"]).map(({ year, albumDetails }) => ({
       year,

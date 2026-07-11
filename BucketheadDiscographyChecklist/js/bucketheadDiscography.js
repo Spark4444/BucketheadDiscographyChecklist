@@ -190,3818 +190,3285 @@ const bucketheadDiscography = {
   "Pikes": [
     {
       "year": "2011",
-      "overallIndex": "1",
-      "pikeIndex": "It's Alive",
-      "title": "31:10",
-      "length": "May 15[22]"
+      "pikeIndex": "1",
+      "title": "It's Alive",
+      "length": "31:10"
     },
     {
       "year": "2011",
-      "overallIndex": "2",
-      "pikeIndex": "Empty Space",
-      "title": "32:00",
-      "length": "May 20 (Tour Only Release: July 8) (Worldwide: July 14)[23]"
+      "pikeIndex": "2",
+      "title": "Empty Space",
+      "length": "32:00"
     },
     {
       "year": "2011",
-      "overallIndex": "3",
-      "pikeIndex": "3 Foot Clearance",
-      "title": "40:22",
-      "length": "August 17[24]"
+      "pikeIndex": "3",
+      "title": "3 Foot Clearance",
+      "length": "40:22"
     },
     {
       "year": "2011",
-      "overallIndex": "4",
-      "pikeIndex": "Underground Chamber",
-      "title": "30:43",
-      "length": "CD"
+      "pikeIndex": "4",
+      "title": "Underground Chamber",
+      "length": "30:43"
     },
     {
       "year": "2011",
-      "overallIndex": "5",
-      "pikeIndex": "Look up There",
-      "title": "32:29",
-      "length": ""
+      "pikeIndex": "5",
+      "title": "Look up There",
+      "length": "32:29"
     },
     {
       "year": "2012",
-      "overallIndex": "6",
-      "pikeIndex": "Balloon Cement",
-      "title": "30:05",
-      "length": "April 14 (CD release: May 17)"
+      "pikeIndex": "6",
+      "title": "Balloon Cement",
+      "length": "30:05"
     },
     {
       "year": "2012",
-      "overallIndex": "7",
-      "pikeIndex": "The Shores of Molokai",
-      "title": "31:34",
-      "length": "August 9 (CD release: August 25)"
+      "pikeIndex": "7",
+      "title": "The Shores of Molokai",
+      "length": "31:34"
     },
     {
       "year": "2012",
-      "overallIndex": "8",
-      "pikeIndex": "Racks",
-      "title": "29:52",
-      "length": "September 20"
+      "pikeIndex": "8",
+      "title": "Racks",
+      "length": "29:52"
     },
     {
       "year": "2012",
-      "overallIndex": "9",
-      "pikeIndex": "March of the Slunks",
-      "title": "30:36",
-      "length": ""
+      "pikeIndex": "9",
+      "title": "March of the Slunks",
+      "length": "30:36"
     },
     {
       "year": "2012",
-      "overallIndex": "10",
-      "pikeIndex": "The Silent Picture Book",
-      "title": "29:47",
-      "length": ""
+      "pikeIndex": "10",
+      "title": "The Silent Picture Book",
+      "length": "29:47"
     },
     {
       "year": "2013",
-      "overallIndex": "11",
-      "pikeIndex": "Forgotten Library",
-      "title": "31:26",
-      "length": "April 9 (Regular edition: June 4)"
+      "pikeIndex": "11",
+      "title": "Forgotten Library",
+      "length": "31:26"
     },
     {
       "year": "2013",
-      "overallIndex": "12",
-      "pikeIndex": "Propellar",
-      "title": "30:17",
-      "length": "May 7"
+      "pikeIndex": "12",
+      "title": "Propellar",
+      "length": "30:17"
     },
     {
       "year": "2013",
-      "overallIndex": "13",
-      "pikeIndex": "Pike 13",
-      "title": "33:14",
-      "length": "May 13"
+      "pikeIndex": "13",
+      "title": "Pike 13",
+      "length": "33:14"
     },
     {
       "year": "2013",
-      "overallIndex": "14",
-      "pikeIndex": "The Mark of Davis",
-      "title": "31:49",
-      "length": "May 31"
+      "pikeIndex": "14",
+      "title": "The Mark of Davis",
+      "length": "31:49"
     },
     {
       "year": "2013",
-      "overallIndex": "15",
-      "pikeIndex": "View Master",
-      "title": "30:05",
-      "length": "June 8 (limited edition), March 31, 2016 (digital edition)"
+      "pikeIndex": "15",
+      "title": "View Master",
+      "length": "30:05"
     },
     {
       "year": "2013",
-      "overallIndex": "16",
-      "pikeIndex": "The Boiling Pond",
-      "title": "30:05",
-      "length": "June 21"
+      "pikeIndex": "16",
+      "title": "The Boiling Pond",
+      "length": "30:05"
     },
     {
       "year": "2013",
-      "overallIndex": "17",
-      "pikeIndex": "The Spirit Winds",
-      "title": "30:51",
-      "length": "July 2"
+      "pikeIndex": "17",
+      "title": "The Spirit Winds",
+      "length": "30:51"
     },
     {
       "year": "2013",
-      "overallIndex": "18",
-      "pikeIndex": "The Astrodome",
-      "title": "33:28",
-      "length": "July 29 (limited edition), March 31, 2016 (digital edition)"
+      "pikeIndex": "18",
+      "title": "The Astrodome",
+      "length": "33:28"
     },
     {
       "year": "2013",
-      "overallIndex": "19",
-      "pikeIndex": "Teeter Slaughter",
-      "title": "31:38",
-      "length": "August 5"
+      "pikeIndex": "19",
+      "title": "Teeter Slaughter",
+      "length": "31:38"
     },
     {
       "year": "2013",
-      "overallIndex": "20",
-      "pikeIndex": "Thaw",
-      "title": "32:21",
-      "length": ""
+      "pikeIndex": "20",
+      "title": "Thaw",
+      "length": "32:21"
     },
     {
       "year": "2013",
-      "overallIndex": "21",
-      "pikeIndex": "Spiral Trackway",
-      "title": "31:06",
-      "length": "September 3 (download edition), August 10, 2020 (remix edition)"
+      "pikeIndex": "21",
+      "title": "Spiral Trackway",
+      "length": "31:06"
     },
     {
       "year": "2013",
-      "overallIndex": "22",
-      "pikeIndex": "Sphere Facade",
-      "title": "31:44",
-      "length": ""
+      "pikeIndex": "22",
+      "title": "Sphere Facade",
+      "length": "31:44"
     },
     {
       "year": "2013",
-      "overallIndex": "23",
-      "pikeIndex": "Telescape",
-      "title": "32:14",
-      "length": "August 16 (digital edition)"
+      "pikeIndex": "23",
+      "title": "Telescape",
+      "length": "32:14"
     },
     {
       "year": "2013",
-      "overallIndex": "24",
-      "pikeIndex": "Slug Cartilage",
-      "title": "30:55",
-      "length": "September 4 (digital edition)"
+      "pikeIndex": "24",
+      "title": "Slug Cartilage",
+      "length": "30:55"
     },
     {
       "year": "2013",
-      "overallIndex": "25",
-      "pikeIndex": "Pancake Heater",
-      "title": "31:23",
-      "length": "September 5 (digital edition)"
+      "pikeIndex": "25",
+      "title": "Pancake Heater",
+      "length": "31:23"
     },
     {
       "year": "2013",
-      "overallIndex": "26",
-      "pikeIndex": "Worms for the Garden",
-      "title": "30:07",
-      "length": "September 13 (digital edition)"
+      "pikeIndex": "26",
+      "title": "Worms for the Garden",
+      "length": "30:07"
     },
     {
       "year": "2013",
-      "overallIndex": "27",
-      "pikeIndex": "Halls of Dimension",
-      "title": "32:03",
-      "length": "September 18 (digital edition)"
+      "pikeIndex": "27",
+      "title": "Halls of Dimension",
+      "length": "32:03"
     },
     {
       "year": "2013",
-      "overallIndex": "28",
-      "pikeIndex": "Feathers",
-      "title": "31:39",
-      "length": "October 3 (digital edition)"
+      "pikeIndex": "28",
+      "title": "Feathers",
+      "length": "31:39"
     },
     {
       "year": "2013",
-      "overallIndex": "29",
-      "pikeIndex": "Splatters",
-      "title": "31:02",
-      "length": "September 26 (digital edition)"
+      "pikeIndex": "29",
+      "title": "Splatters",
+      "length": "31:02"
     },
     {
       "year": "2013",
-      "overallIndex": "30",
-      "pikeIndex": "Mannequin Cemetery",
-      "title": "29:13",
-      "length": "October 5 (digital edition)"
+      "pikeIndex": "30",
+      "title": "Mannequin Cemetery",
+      "length": "29:13"
     },
     {
       "year": "2013",
-      "overallIndex": "31",
-      "pikeIndex": "Pearson's Square",
-      "title": "33:40",
-      "length": "October 24 (digital edition)"
+      "pikeIndex": "31",
+      "title": "Pearson's Square",
+      "length": "33:40"
     },
     {
       "year": "2013",
-      "overallIndex": "32",
-      "pikeIndex": "Rise of the Blue Lotus",
-      "title": "29:35",
-      "length": "November 8 (digital edition)"
+      "pikeIndex": "32",
+      "title": "Rise of the Blue Lotus",
+      "length": "29:35"
     },
     {
       "year": "2013",
-      "overallIndex": "33",
-      "pikeIndex": "Pumpkin",
-      "title": "31:10",
-      "length": "October 29 (digital edition)"
+      "pikeIndex": "33",
+      "title": "Pumpkin",
+      "length": "31:10"
     },
     {
       "year": "2013",
-      "overallIndex": "34",
-      "pikeIndex": "Pikes",
-      "title": "32:49",
-      "length": "November 27 (digital edition)"
+      "pikeIndex": "34",
+      "title": "Pikes",
+      "length": "32:49"
     },
     {
       "year": "2013",
-      "overallIndex": "35",
-      "pikeIndex": "Thank You Ohlinger's",
-      "title": "32:06",
-      "length": "November 2 (digital edition)"
+      "pikeIndex": "35",
+      "title": "Thank You Ohlinger's",
+      "length": "32:06"
     },
     {
       "year": "2013",
-      "overallIndex": "36",
-      "pikeIndex": "The Pit",
-      "title": "28:26",
-      "length": ""
+      "pikeIndex": "36",
+      "title": "The Pit",
+      "length": "28:26"
     },
     {
       "year": "2013",
-      "overallIndex": "37",
-      "pikeIndex": "Hollowed Out",
-      "title": "32:10",
-      "length": "November 11 (digital edition)"
+      "pikeIndex": "37",
+      "title": "Hollowed Out",
+      "length": "32:10"
     },
     {
       "year": "2013",
-      "overallIndex": "38",
-      "pikeIndex": "It Smells Like Frogs",
-      "title": "31:08",
-      "length": "November 22 (digital edition)"
+      "pikeIndex": "38",
+      "title": "It Smells Like Frogs",
+      "length": "31:08"
     },
     {
       "year": "2013",
-      "overallIndex": "39",
-      "pikeIndex": "Twisterlend",
-      "title": "30:36",
-      "length": "November 25 (digital edition)"
+      "pikeIndex": "39",
+      "title": "Twisterlend",
+      "length": "30:36"
     },
     {
       "year": "2013",
-      "overallIndex": "40",
-      "pikeIndex": "Coat of Charms",
-      "title": "29:38",
-      "length": "December 11 (digital edition)"
+      "pikeIndex": "40",
+      "title": "Coat of Charms",
+      "length": "29:38"
     },
     {
       "year": "2013",
-      "overallIndex": "41",
-      "pikeIndex": "Wishes",
-      "title": "33:05",
-      "length": "December 24 (digital edition)"
+      "pikeIndex": "41",
+      "title": "Wishes",
+      "length": "33:05"
     },
     {
       "year": "2014",
-      "overallIndex": "42",
-      "pikeIndex": "Backwards Chimney",
-      "title": "29:02",
-      "length": "January 18 (limited edition)"
+      "pikeIndex": "42",
+      "title": "Backwards Chimney",
+      "length": "29:02"
     },
     {
       "year": "2014",
-      "overallIndex": "43",
-      "pikeIndex": "Pike 43",
-      "title": "33:05",
-      "length": "January 21 (limited edition)"
+      "pikeIndex": "43",
+      "title": "Pike 43",
+      "length": "33:05"
     },
     {
       "year": "2014",
-      "overallIndex": "44",
-      "pikeIndex": "You Can't Triple Stamp a Double Stamp",
-      "title": "29:44",
-      "length": "January 9 (digital edition)"
+      "pikeIndex": "44",
+      "title": "You Can't Triple Stamp a Double Stamp",
+      "length": "29:44"
     },
     {
       "year": "2014",
-      "overallIndex": "45",
-      "pikeIndex": "The Coats of Claude",
-      "title": "29:59",
-      "length": "January 17 (digital edition)"
+      "pikeIndex": "45",
+      "title": "The Coats of Claude",
+      "length": "29:59"
     },
     {
       "year": "2014",
-      "overallIndex": "46",
-      "pikeIndex": "Rainy Days",
-      "title": "31:07",
-      "length": "March 1 (digital edition)"
+      "pikeIndex": "46",
+      "title": "Rainy Days",
+      "length": "31:07"
     },
     {
       "year": "2014",
-      "overallIndex": "47",
-      "pikeIndex": "Roller Coaster Track Repair",
-      "title": "30:06",
-      "length": "March 1 (digital edition), (Vinyl edition: February 2018)"
+      "pikeIndex": "47",
+      "title": "Roller Coaster Track Repair",
+      "length": "30:06"
     },
     {
       "year": "2014",
-      "overallIndex": "48",
-      "pikeIndex": "Hide in the Pickling Jar",
-      "title": "30:52",
-      "length": "February 7 (digital edition)"
+      "pikeIndex": "48",
+      "title": "Hide in the Pickling Jar",
+      "length": "30:52"
     },
     {
       "year": "2014",
-      "overallIndex": "49",
-      "pikeIndex": "Monument Valley",
-      "title": "29:32",
-      "length": ""
+      "pikeIndex": "49",
+      "title": "Monument Valley",
+      "length": "29:32"
     },
     {
       "year": "2014",
-      "overallIndex": "50",
-      "pikeIndex": "Pitch Dark",
-      "title": "29:58",
-      "length": "February 25 (digital edition)"
+      "pikeIndex": "50",
+      "title": "Pitch Dark",
+      "length": "29:58"
     },
     {
       "year": "2014",
-      "overallIndex": "51",
-      "pikeIndex": "Claymation Courtyard",
-      "title": "30:23",
-      "length": "April 14 (physical edition)"
+      "pikeIndex": "51",
+      "title": "Claymation Courtyard",
+      "length": "30:23"
     },
     {
       "year": "2014",
-      "overallIndex": "52",
-      "pikeIndex": "Factory",
-      "title": "29:45",
-      "length": "March 13 (digital edition)"
+      "pikeIndex": "52",
+      "title": "Factory",
+      "length": "29:45"
     },
     {
       "year": "2014",
-      "overallIndex": "53",
-      "pikeIndex": "City of Ferris Wheels",
-      "title": "31:30",
-      "length": "March 23 (digital edition)"
+      "pikeIndex": "53",
+      "title": "City of Ferris Wheels",
+      "length": "31:30"
     },
     {
       "year": "2014",
-      "overallIndex": "54",
-      "pikeIndex": "The Frankensteins Monsters Blinds",
-      "title": "30:39",
-      "length": "March 27 (digital edition)"
+      "pikeIndex": "54",
+      "title": "The Frankensteins Monsters Blinds",
+      "length": "30:39"
     },
     {
       "year": "2014",
-      "overallIndex": "55",
-      "pikeIndex": "The Miskatonic Scale",
-      "title": "29:39",
-      "length": "May 23 (digital edition)"
+      "pikeIndex": "55",
+      "title": "The Miskatonic Scale",
+      "length": "29:39"
     },
     {
       "year": "2014",
-      "overallIndex": "56",
-      "pikeIndex": "Cycle",
-      "title": "30:29",
-      "length": "April 17 (digital edition)"
+      "pikeIndex": "56",
+      "title": "Cycle",
+      "length": "30:29"
     },
     {
       "year": "2014",
-      "overallIndex": "57",
-      "pikeIndex": "Night Gallery",
-      "title": "30:11",
-      "length": "April 28 (digital edition)"
+      "pikeIndex": "57",
+      "title": "Night Gallery",
+      "length": "30:11"
     },
     {
       "year": "2014",
-      "overallIndex": "58",
-      "pikeIndex": "Outpost",
-      "title": "29:00",
-      "length": "April 30 (digital edition)"
+      "pikeIndex": "58",
+      "title": "Outpost",
+      "length": "29:00"
     },
     {
       "year": "2014",
-      "overallIndex": "59",
-      "pikeIndex": "Ydrapoej",
-      "title": "29:18",
-      "length": "June 23 (limited edition), July 10 (digital edition)"
+      "pikeIndex": "59",
+      "title": "Ydrapoej",
+      "length": "29:18"
     },
     {
       "year": "2014",
-      "overallIndex": "60",
-      "pikeIndex": "Footsteps",
-      "title": "29:15",
-      "length": "May 13 (digital edition)"
+      "pikeIndex": "60",
+      "title": "Footsteps",
+      "length": "29:15"
     },
     {
       "year": "2014",
-      "overallIndex": "61",
-      "pikeIndex": "Citacis",
-      "title": "29:10",
-      "length": "May 20 (digital edition)"
+      "pikeIndex": "61",
+      "title": "Citacis",
+      "length": "29:10"
     },
     {
       "year": "2014",
-      "overallIndex": "62",
-      "pikeIndex": "Outlined for Citacis",
-      "title": "29:56",
-      "length": "May 28 (digital edition)"
+      "pikeIndex": "62",
+      "title": "Outlined for Citacis",
+      "length": "29:56"
     },
     {
       "year": "2014",
-      "overallIndex": "63",
-      "pikeIndex": "Grand Gallery",
-      "title": "29:43",
-      "length": ""
+      "pikeIndex": "63",
+      "title": "Grand Gallery",
+      "length": "29:43"
     },
     {
       "year": "2014",
-      "overallIndex": "64",
-      "pikeIndex": "Aquarium",
-      "title": "29:08",
-      "length": "July 16 (limited edition), July 21 (digital edition)"
+      "pikeIndex": "64",
+      "title": "Aquarium",
+      "length": "29:08"
     },
     {
       "year": "2014",
-      "overallIndex": "65",
-      "pikeIndex": "Hold Me Forever (In memory of my mom Nancy York Carroll)",
-      "title": "28:37",
-      "length": "June 25 (digital edition)"
+      "pikeIndex": "65",
+      "title": "Hold Me Forever (In Memory of my Mom, Nancy York Carroll)",
+      "length": "28:37"
     },
     {
       "year": "2014",
-      "overallIndex": "66",
-      "pikeIndex": "Leave the Light On",
-      "title": "30:44",
-      "length": "July 29 (limited edition), August 14 (digital edition)"
+      "pikeIndex": "66",
+      "title": "Leave the Light On",
+      "length": "30:44"
     },
     {
       "year": "2014",
-      "overallIndex": "67",
-      "pikeIndex": "Abandoned Slaughterhouse",
-      "title": "30:06",
-      "length": "July 13 (digital edition)"
+      "pikeIndex": "67",
+      "title": "Abandoned Slaughterhouse",
+      "length": "30:06"
     },
     {
       "year": "2014",
-      "overallIndex": "68",
-      "pikeIndex": "Assignment 033-03",
-      "title": "29:04",
-      "length": "July 18 (digital edition)"
+      "pikeIndex": "68",
+      "title": "Assignment 033-03",
+      "length": "29:04"
     },
     {
       "year": "2014",
-      "overallIndex": "69",
-      "pikeIndex": "Category of Whereness",
-      "title": "29:27",
-      "length": "August 26 (limited edition), March 31, 2016 (digital edition)"
+      "pikeIndex": "69",
+      "title": "Category of Whereness",
+      "length": "29:27"
     },
     {
       "year": "2014",
-      "overallIndex": "70",
-      "pikeIndex": "Snow Slug",
-      "title": "29:21",
-      "length": "July 29 (digital edition)"
+      "pikeIndex": "70",
+      "title": "Snow Slug",
+      "length": "29:21"
     },
     {
       "year": "2014",
-      "overallIndex": "71",
-      "pikeIndex": "Celery",
-      "title": "29:03",
-      "length": "August 5 (digital edition)"
+      "pikeIndex": "71",
+      "title": "Celery",
+      "length": "29:03"
     },
     {
       "year": "2014",
-      "overallIndex": "72",
-      "pikeIndex": "Closed Attractions",
-      "title": "31:19",
-      "length": "August 13 (digital edition)"
+      "pikeIndex": "72",
+      "title": "Closed Attractions",
+      "length": "31:19"
     },
     {
       "year": "2014",
-      "overallIndex": "73",
-      "pikeIndex": "Final Bend of the Labyrinth",
-      "title": "30:36",
-      "length": "August 21 (digital edition)"
+      "pikeIndex": "73",
+      "title": "Final Bend of the Labyrinth",
+      "length": "30:36"
     },
     {
       "year": "2014",
-      "overallIndex": "74",
-      "pikeIndex": "Infinity Hill",
-      "title": "29:21",
-      "length": ""
+      "pikeIndex": "74",
+      "title": "Infinity Hill",
+      "length": "29:21"
     },
     {
       "year": "2014",
-      "overallIndex": "75",
-      "pikeIndex": "Twilight Constrictor",
-      "title": "30:15",
-      "length": "August 28 (digital edition)"
+      "pikeIndex": "75",
+      "title": "Twilight Constrictor",
+      "length": "30:15"
     },
     {
       "year": "2014",
-      "overallIndex": "76",
-      "pikeIndex": "Caterpillar",
-      "title": "30:09",
-      "length": "September 19 (limited edition), March 31, 2016 (digital edition)"
+      "pikeIndex": "76",
+      "title": "Caterpillar",
+      "length": "30:09"
     },
     {
       "year": "2014",
-      "overallIndex": "77",
-      "pikeIndex": "Bumbyride Dreamlands",
-      "title": "28:34",
-      "length": "September 4 (download edition)"
+      "pikeIndex": "77",
+      "title": "Bumbyride Dreamlands",
+      "length": "28:34"
     },
     {
       "year": "2014",
-      "overallIndex": "78",
-      "pikeIndex": "Pike 78",
-      "title": "30:41",
-      "length": "September 23 (limited edition)"
+      "pikeIndex": "78",
+      "title": "Pike 78",
+      "length": "30:41"
     },
     {
       "year": "2014",
-      "overallIndex": "79",
-      "pikeIndex": "Geppetos Trunk",
-      "title": "29:32",
-      "length": "September 14 (download edition)"
+      "pikeIndex": "79",
+      "title": "Geppetos Trunk",
+      "length": "29:32"
     },
     {
       "year": "2014",
-      "overallIndex": "80",
-      "pikeIndex": "Cutout Animatronic",
-      "title": "28:03",
-      "length": "September 17 (limited edition)"
+      "pikeIndex": "80",
+      "title": "Cutout Animatronic",
+      "length": "28:03"
     },
     {
       "year": "2014",
-      "overallIndex": "81",
-      "pikeIndex": "Carnival of Cartilage",
-      "title": "29:01",
-      "length": "September 27 (download edition)"
+      "pikeIndex": "81",
+      "title": "Carnival of Cartilage",
+      "length": "29:01"
     },
     {
       "year": "2014",
-      "overallIndex": "82",
-      "pikeIndex": "Calamity Cabin",
-      "title": "29:54",
-      "length": ""
+      "pikeIndex": "82",
+      "title": "Calamity Cabin",
+      "length": "29:54"
     },
     {
       "year": "2014",
-      "overallIndex": "83",
-      "pikeIndex": "Dreamless Slumber",
-      "title": "29:00",
-      "length": "October 3 (download edition)"
+      "pikeIndex": "83",
+      "title": "Dreamless Slumber",
+      "length": "29:00"
     },
     {
       "year": "2014",
-      "overallIndex": "84",
-      "pikeIndex": "Whirlpool",
-      "title": "28:54",
-      "length": "October 7 (download edition)"
+      "pikeIndex": "84",
+      "title": "Whirlpool",
+      "length": "28:54"
     },
     {
       "year": "2014",
-      "overallIndex": "85",
-      "pikeIndex": "Walk in Loset",
-      "title": "29:17",
-      "length": "October 11 (download edition)"
+      "pikeIndex": "85",
+      "title": "Walk in Loset",
+      "length": "29:17"
     },
     {
       "year": "2014",
-      "overallIndex": "86",
-      "pikeIndex": "Our Selves",
-      "title": "28:38",
-      "length": "October 18 (download edition)"
+      "pikeIndex": "86",
+      "title": "Our Selves",
+      "length": "28:38"
     },
     {
       "year": "2014",
-      "overallIndex": "87",
-      "pikeIndex": "Interstellar Slunk",
-      "title": "30:52",
-      "length": "October 20 (download edition)"
+      "pikeIndex": "87",
+      "title": "Interstellar Slunk",
+      "length": "30:52"
     },
     {
       "year": "2014",
-      "overallIndex": "88",
-      "pikeIndex": "Red Pepper Restaurant",
-      "title": "33:21",
-      "length": "October 24 (download edition)"
+      "pikeIndex": "88",
+      "title": "Red Pepper Restaurant",
+      "length": "33:21"
     },
     {
       "year": "2014",
-      "overallIndex": "89",
-      "pikeIndex": "The Time Travelers Dream",
-      "title": "30:19",
-      "length": "October 28 (download edition)"
+      "pikeIndex": "89",
+      "title": "The Time Travelers Dream",
+      "length": "30:19"
     },
     {
       "year": "2014",
-      "overallIndex": "90",
-      "pikeIndex": "Listen for the Whisper",
-      "title": "29:03",
-      "length": "October 30 (download edition)"
+      "pikeIndex": "90",
+      "title": "Listen for the Whisper",
+      "length": "29:03"
     },
     {
       "year": "2014",
-      "overallIndex": "91",
-      "pikeIndex": "Sublunar",
-      "title": "29:13",
-      "length": "December 9 (limited edition), March 31, 2016 (digital edition)"
+      "pikeIndex": "91",
+      "title": "Sublunar",
+      "length": "29:13"
     },
     {
       "year": "2014",
-      "overallIndex": "92",
-      "pikeIndex": "The Splatterhorn",
-      "title": "30:16",
-      "length": "November 15 (download edition)"
+      "pikeIndex": "92",
+      "title": "The Splatterhorn",
+      "length": "30:16"
     },
     {
       "year": "2014",
-      "overallIndex": "93",
-      "pikeIndex": "Coaster Coat",
-      "title": "32:46",
-      "length": "November 20 (download edition)"
+      "pikeIndex": "93",
+      "title": "Coaster Coat",
+      "length": "32:46"
     },
     {
       "year": "2014",
-      "overallIndex": "94",
-      "pikeIndex": "Magic Lantern",
-      "title": "29:27",
-      "length": "November 26 (download edition)"
+      "pikeIndex": "94",
+      "title": "Magic Lantern",
+      "length": "29:27"
     },
     {
       "year": "2014",
-      "overallIndex": "95",
-      "pikeIndex": "Northern Lights",
-      "title": "28:43",
-      "length": "November 28 (download edition)"
+      "pikeIndex": "95",
+      "title": "Northern Lights",
+      "length": "28:43"
     },
     {
       "year": "2014",
-      "overallIndex": "96",
-      "pikeIndex": "Yarn",
-      "title": "30:18",
-      "length": "December 4 (download edition)"
+      "pikeIndex": "96",
+      "title": "Yarn",
+      "length": "30:18"
     },
     {
       "year": "2014",
-      "overallIndex": "97",
-      "pikeIndex": "Passageways",
-      "title": "29:05",
-      "length": "December 11 (download edition)"
+      "pikeIndex": "97",
+      "title": "Passageways",
+      "length": "29:05"
     },
     {
       "year": "2014",
-      "overallIndex": "98",
-      "pikeIndex": "Pilot",
-      "title": "29:20",
-      "length": "December 19 (download edition)"
+      "pikeIndex": "98",
+      "title": "Pilot",
+      "length": "29:20"
     },
     {
       "year": "2014",
-      "overallIndex": "99",
-      "pikeIndex": "Polar Trench",
-      "title": "30:40",
-      "length": "December 25 (download edition)"
+      "pikeIndex": "99",
+      "title": "Polar Trench",
+      "length": "30:40"
     },
     {
       "year": "2014",
-      "overallIndex": "100",
-      "pikeIndex": "The Mighty Microscope",
-      "title": "29:59",
-      "length": "December 30 (download edition)"
+      "pikeIndex": "100",
+      "title": "The Mighty Microscope",
+      "length": "29:59"
     },
     {
       "year": "2014",
-      "overallIndex": "101",
-      "pikeIndex": "In the Hollow Hills",
-      "title": "29:04",
-      "length": "December 31 (download edition)"
+      "pikeIndex": "101",
+      "title": "In the Hollow Hills",
+      "length": "29:04"
     },
     {
       "year": "2015",
-      "overallIndex": "102",
-      "pikeIndex": "Sideway Streets",
-      "title": "29:28",
-      "length": "January 13 (download edition)"
+      "pikeIndex": "102",
+      "title": "Sideway Streets",
+      "length": "29:28"
     },
     {
       "year": "2015",
-      "overallIndex": "103",
-      "pikeIndex": "Squid Ink Lodge",
-      "title": "30:15",
-      "length": "January 21 (download edition)"
+      "pikeIndex": "103",
+      "title": "Squid Ink Lodge",
+      "length": "30:15"
     },
     {
       "year": "2015",
-      "overallIndex": "104",
-      "pikeIndex": "Project Little Man",
-      "title": "29:02",
-      "length": "February 27 (download edition)"
+      "pikeIndex": "104",
+      "title": "Project Little Man",
+      "length": "29:02"
     },
     {
       "year": "2015",
-      "overallIndex": "105",
-      "pikeIndex": "The Moltrail",
-      "title": "30:11",
-      "length": "January 27 (download edition)"
+      "pikeIndex": "105",
+      "title": "The Moltrail",
+      "length": "30:11"
     },
     {
       "year": "2015",
-      "overallIndex": "106",
-      "pikeIndex": "Forest of Bamboo",
-      "title": "29:12",
-      "length": "January 29 (download edition)"
+      "pikeIndex": "106",
+      "title": "Forest of Bamboo",
+      "length": "29:12"
     },
     {
       "year": "2015",
-      "overallIndex": "107",
-      "pikeIndex": "Weird Glows Gleam",
-      "title": "28:59",
-      "length": "January 30 (download edition)"
+      "pikeIndex": "107",
+      "title": "Weird Glows Gleam",
+      "length": "28:59"
     },
     {
       "year": "2015",
-      "overallIndex": "108",
-      "pikeIndex": "Collect Itself",
-      "title": "29:09",
-      "length": "January 30 (download edition)"
+      "pikeIndex": "108",
+      "title": "Collect Itself",
+      "length": "29:09"
     },
     {
       "year": "2015",
-      "overallIndex": "109",
-      "pikeIndex": "The Left Panel",
-      "title": "29:56",
-      "length": "February 3 (download edition)"
+      "pikeIndex": "109",
+      "title": "The Left Panel",
+      "length": "29:56"
     },
     {
       "year": "2015",
-      "overallIndex": "110",
-      "pikeIndex": "Wall to Wall Cobwebs",
-      "title": "32:04",
-      "length": "February 14 (download edition)"
+      "pikeIndex": "110",
+      "title": "Wall to Wall Cobwebs",
+      "length": "32:04"
     },
     {
       "year": "2015",
-      "overallIndex": "111",
-      "pikeIndex": "Night of the Snowmole",
-      "title": "28:56",
-      "length": "February 17 (download edition)"
+      "pikeIndex": "111",
+      "title": "Night of the Snowmole",
+      "length": "28:56"
     },
     {
       "year": "2015",
-      "overallIndex": "112",
-      "pikeIndex": "Creaky Doors and Creaky Floors",
-      "title": "29:16",
-      "length": "February 19 (download edition)"
+      "pikeIndex": "112",
+      "title": "Creaky Doors and Creaky Floors",
+      "length": "29:16"
     },
     {
       "year": "2015",
-      "overallIndex": "113",
-      "pikeIndex": "Herbie Theatre",
-      "title": "30:40",
-      "length": "February 21 (download edition)"
+      "pikeIndex": "113",
+      "title": "Herbie Theatre",
+      "length": "30:40"
     },
     {
       "year": "2015",
-      "overallIndex": "114",
-      "pikeIndex": "Glow in the Dark",
-      "title": "29:15",
-      "length": "February 24 (download edition)"
+      "pikeIndex": "114",
+      "title": "Glow in the Dark",
+      "length": "29:15"
     },
     {
       "year": "2015",
-      "overallIndex": "115",
-      "pikeIndex": "Marble Monsters",
-      "title": "30:29",
-      "length": "February 27 (download edition)"
+      "pikeIndex": "115",
+      "title": "Marble Monsters",
+      "length": "30:29"
     },
     {
       "year": "2015",
-      "overallIndex": "116",
-      "pikeIndex": "Infinity of the Spheres",
-      "title": "29:10",
-      "length": "February 27 (download edition)"
+      "pikeIndex": "116",
+      "title": "Infinity of the Spheres",
+      "length": "29:10"
     },
     {
       "year": "2015",
-      "overallIndex": "117",
-      "pikeIndex": "Vacuum",
-      "title": "30:16",
-      "length": "February 28 (download edition)"
+      "pikeIndex": "117",
+      "title": "Vacuum",
+      "length": "30:16"
     },
     {
       "year": "2015",
-      "overallIndex": "118",
-      "pikeIndex": "Elevator",
-      "title": "29:28",
-      "length": "March 11 (download edition)"
+      "pikeIndex": "118",
+      "title": "Elevator",
+      "length": "29:28"
     },
     {
       "year": "2015",
-      "overallIndex": "119",
-      "pikeIndex": "Solar Sailcraft",
-      "title": "30:09",
-      "length": "May 9 (download edition)"
+      "pikeIndex": "119",
+      "title": "Solar Sailcraft",
+      "length": "30:09"
     },
     {
       "year": "2015",
-      "overallIndex": "120",
-      "pikeIndex": "Louzenger",
-      "title": "31:16",
-      "length": "March 19 (download edition)"
+      "pikeIndex": "120",
+      "title": "Louzenger",
+      "length": "31:16"
     },
     {
       "year": "2015",
-      "overallIndex": "121",
-      "pikeIndex": "Shaded Ray",
-      "title": "30:01",
-      "length": "March 21 (download edition)"
+      "pikeIndex": "121",
+      "title": "Shaded Ray",
+      "length": "30:01"
     },
     {
       "year": "2015",
-      "overallIndex": "122",
-      "pikeIndex": "The Other Side of the Dark",
-      "title": "28:51",
-      "length": "March 26 (download edition)"
+      "pikeIndex": "122",
+      "title": "The Other Side of the Dark",
+      "length": "28:51"
     },
     {
       "year": "2015",
-      "overallIndex": "123",
-      "pikeIndex": "Scroll of Vegetable",
-      "title": "28:33",
-      "length": "March 28 (download edition)"
+      "pikeIndex": "123",
+      "title": "Scroll of Vegetable",
+      "length": "28:33"
     },
     {
       "year": "2015",
-      "overallIndex": "124",
-      "pikeIndex": "Rotten Candy Cane",
-      "title": "29:44",
-      "length": "March 31 (download edition)"
+      "pikeIndex": "124",
+      "title": "Rotten Candy Cane",
+      "length": "29:44"
     },
     {
       "year": "2015",
-      "overallIndex": "125",
-      "pikeIndex": "Along the River Bank",
-      "title": "29:44",
-      "length": "April 3 (download edition)"
+      "pikeIndex": "125",
+      "title": "Along the River Bank",
+      "length": "29:44"
     },
     {
       "year": "2015",
-      "overallIndex": "126",
-      "pikeIndex": "Tourist",
-      "title": "29:55",
-      "length": "April 9 (download edition)"
+      "pikeIndex": "126",
+      "title": "Tourist",
+      "length": "29:55"
     },
     {
       "year": "2015",
-      "overallIndex": "127",
-      "pikeIndex": "Paint to the Tile",
-      "title": "29:02",
-      "length": "April 12 (download edition)"
+      "pikeIndex": "127",
+      "title": "Paint to the Tile",
+      "length": "29:02"
     },
     {
       "year": "2015",
-      "overallIndex": "128",
-      "pikeIndex": "Tucked Into Dreams",
-      "title": "30:07",
-      "length": "April 19 (download edition)"
+      "pikeIndex": "128",
+      "title": "Tucked Into Dreams",
+      "length": "30:07"
     },
     {
       "year": "2015",
-      "overallIndex": "129",
-      "pikeIndex": "Forever Lake",
-      "title": "32:11",
-      "length": "April 21 (download edition)"
+      "pikeIndex": "129",
+      "title": "Forever Lake",
+      "length": "32:11"
     },
     {
       "year": "2015",
-      "overallIndex": "130",
-      "pikeIndex": "Down in the Bayou Part Two",
-      "title": "29:51",
-      "length": "April 24 (download edition)"
+      "pikeIndex": "130",
+      "title": "Down in the Bayou Part Two",
+      "length": "29:51"
     },
     {
       "year": "2015",
-      "overallIndex": "131",
-      "pikeIndex": "Down the Bayou Part One",
-      "title": "29:20",
-      "length": "April 28 (download edition)"
+      "pikeIndex": "131",
+      "title": "Down the Bayou Part One",
+      "length": "29:20"
     },
     {
       "year": "2015",
-      "overallIndex": "132",
-      "pikeIndex": "Chamber of Drawers",
-      "title": "28:29",
-      "length": "April 29 (download edition)"
+      "pikeIndex": "132",
+      "title": "Chamber of Drawers",
+      "length": "28:29"
     },
     {
       "year": "2015",
-      "overallIndex": "133",
-      "pikeIndex": "Embroidery",
-      "title": "29:18",
-      "length": "April 30 (download edition)"
+      "pikeIndex": "133",
+      "title": "Embroidery",
+      "length": "29:18"
     },
     {
       "year": "2015",
-      "overallIndex": "134",
-      "pikeIndex": "Digging Under the Basement",
-      "title": "30:34",
-      "length": "May 8 (download edition)"
+      "pikeIndex": "134",
+      "title": "Digging Under the Basement",
+      "length": "30:34"
     },
     {
       "year": "2015",
-      "overallIndex": "135",
-      "pikeIndex": "Haunted Roller Coaster Chair",
-      "title": "30:02",
-      "length": "May 8 (download edition)"
+      "pikeIndex": "135",
+      "title": "Haunted Roller Coaster Chair",
+      "length": "30:02"
     },
     {
       "year": "2015",
-      "overallIndex": "136",
-      "pikeIndex": "Firebolt",
-      "title": "28:39",
-      "length": "May 9 (download edition)"
+      "pikeIndex": "136",
+      "title": "Firebolt",
+      "length": "28:39"
     },
     {
       "year": "2015",
-      "overallIndex": "137",
-      "pikeIndex": "Hideous Phantasm",
-      "title": "30:01",
-      "length": "May 16 (download edition)"
+      "pikeIndex": "137",
+      "title": "Hideous Phantasm",
+      "length": "30:01"
     },
     {
       "year": "2015",
-      "overallIndex": "138",
-      "pikeIndex": "Giant Claw",
-      "title": "30:05",
-      "length": "May 22 (download edition)"
+      "pikeIndex": "138",
+      "title": "Giant Claw",
+      "length": "30:05"
     },
     {
       "year": "2015",
-      "overallIndex": "139",
-      "pikeIndex": "Observation",
-      "title": "30:22",
-      "length": "May 26 (download edition)"
+      "pikeIndex": "139",
+      "title": "Observation",
+      "length": "30:22"
     },
     {
       "year": "2015",
-      "overallIndex": "140",
-      "pikeIndex": "Hats and Glasses",
-      "title": "32:18",
-      "length": "May 30 (download edition)"
+      "pikeIndex": "140",
+      "title": "Hats and Glasses",
+      "length": "32:18"
     },
     {
       "year": "2015",
-      "overallIndex": "141",
-      "pikeIndex": "Last Call for the E.P. Ripley",
-      "title": "29:00",
-      "length": "May 30 (download edition)"
+      "pikeIndex": "141",
+      "title": "Last Call for the E.P. Ripley",
+      "length": "29:00"
     },
     {
       "year": "2015",
-      "overallIndex": "142",
-      "pikeIndex": "Nautical Nightmares",
-      "title": "28:44",
-      "length": "May 31 (download edition)"
+      "pikeIndex": "142",
+      "title": "Nautical Nightmares",
+      "length": "28:44"
     },
     {
       "year": "2015",
-      "overallIndex": "143",
-      "pikeIndex": "Blank Bot",
-      "title": "29:51",
-      "length": "June 5 (download edition)"
+      "pikeIndex": "143",
+      "title": "Blank Bot",
+      "length": "29:51"
     },
     {
       "year": "2015",
-      "overallIndex": "144",
-      "pikeIndex": "Scream Sundae",
-      "title": "29:56",
-      "length": "June 6 (download edition)"
+      "pikeIndex": "144",
+      "title": "Scream Sundae",
+      "length": "29:56"
     },
     {
       "year": "2015",
-      "overallIndex": "145",
-      "pikeIndex": "Kareem's Footprint",
-      "title": "28:38",
-      "length": "June 9 (download edition)"
+      "pikeIndex": "145",
+      "title": "Kareem's Footprint",
+      "length": "28:38"
     },
     {
       "year": "2015",
-      "overallIndex": "146",
-      "pikeIndex": "Carrotcature",
-      "title": "28:58",
-      "length": "June 11 (download edition)"
+      "pikeIndex": "146",
+      "title": "Carrotcature",
+      "length": "28:58"
     },
     {
       "year": "2015",
-      "overallIndex": "147",
-      "pikeIndex": "Popcorn Shells",
-      "title": "28:42",
-      "length": "June 13 (download edition)"
+      "pikeIndex": "147",
+      "title": "Popcorn Shells",
+      "length": "28:42"
     },
     {
       "year": "2015",
-      "overallIndex": "148",
-      "pikeIndex": "Invisable  Forest",
-      "title": "29:17",
-      "length": "June 17 (download edition)"
+      "pikeIndex": "148",
+      "title": "Invisable  Forest",
+      "length": "29:17"
     },
     {
       "year": "2015",
-      "overallIndex": "149",
-      "pikeIndex": "Chickencoopscope",
-      "title": "29:42",
-      "length": "June 19 (download edition)"
+      "pikeIndex": "149",
+      "title": "Chickencoopscope",
+      "length": "29:42"
     },
     {
       "year": "2015",
-      "overallIndex": "150",
-      "pikeIndex": "Heaven is your Home (For my Father, Thomas Manley Carroll)",
-      "title": "30:00",
-      "length": "June 21 (download edition – free download on Father's Day, 2015)"
+      "pikeIndex": "150",
+      "title": "Heaven is your Home (For my Father, Thomas Manley Carroll)",
+      "length": "30:00"
     },
     {
       "year": "2015",
-      "overallIndex": "151",
-      "pikeIndex": "Fog Gardens",
-      "title": "30:57",
-      "length": "June 27 (download edition)"
+      "pikeIndex": "151",
+      "title": "Fog Gardens",
+      "length": "30:57"
     },
     {
       "year": "2015",
-      "overallIndex": "152",
-      "pikeIndex": "Carnival Cutouts",
-      "title": "28:46",
-      "length": "July 3 (download edition)"
+      "pikeIndex": "152",
+      "title": "Carnival Cutouts",
+      "length": "28:46"
     },
     {
       "year": "2015",
-      "overallIndex": "153",
-      "pikeIndex": "Whisper Track",
-      "title": "31:51",
-      "length": "July 8 (download edition)"
+      "pikeIndex": "153",
+      "title": "Whisper Track",
+      "length": "31:51"
     },
     {
       "year": "2015",
-      "overallIndex": "154",
-      "pikeIndex": "The Cellar Yawns",
-      "title": "30:52",
-      "length": "July 13 (download edition)"
+      "pikeIndex": "154",
+      "title": "The Cellar Yawns",
+      "length": "30:52"
     },
     {
       "year": "2015",
-      "overallIndex": "155",
-      "pikeIndex": "Ancient Lens",
-      "title": "28:33",
-      "length": "July 16 (download edition)"
+      "pikeIndex": "155",
+      "title": "Ancient Lens",
+      "length": "28:33"
     },
     {
       "year": "2015",
-      "overallIndex": "156",
-      "pikeIndex": "Herbie Climbs a Tree",
-      "title": "29:40",
-      "length": "July 22 (download edition)"
+      "pikeIndex": "156",
+      "title": "Herbie Climbs a Tree",
+      "length": "29:40"
     },
     {
       "year": "2015",
-      "overallIndex": "157",
-      "pikeIndex": "Upside Down Skyway",
-      "title": "31:01",
-      "length": "July 24 (download edition)"
+      "pikeIndex": "157",
+      "title": "Upside Down Skyway",
+      "length": "31:01"
     },
     {
       "year": "2015",
-      "overallIndex": "158",
-      "pikeIndex": "Twisted Branches",
-      "title": "29:43",
-      "length": "July 28 (download edition)"
+      "pikeIndex": "158",
+      "title": "Twisted Branches",
+      "length": "29:43"
     },
     {
       "year": "2015",
-      "overallIndex": "159",
-      "pikeIndex": "Half Circle Bridge",
-      "title": "31:09",
-      "length": "July 31 (download edition)"
+      "pikeIndex": "159",
+      "title": "Half Circle Bridge",
+      "length": "31:09"
     },
     {
       "year": "2015",
-      "overallIndex": "160",
-      "pikeIndex": "Land of Miniatures",
-      "title": "29:00",
-      "length": "August 1 (download edition)"
+      "pikeIndex": "160",
+      "title": "Land of Miniatures",
+      "length": "29:00"
     },
     {
       "year": "2015",
-      "overallIndex": "161",
-      "pikeIndex": "Bats in the Lite Brite",
-      "title": "31:43",
-      "length": "August 1 (download edition)"
+      "pikeIndex": "161",
+      "title": "Bats in the Lite Brite",
+      "length": "31:43"
     },
     {
       "year": "2015",
-      "overallIndex": "162",
-      "pikeIndex": "Four Forms",
-      "title": "34:47",
-      "length": "August 8 (download edition)"
+      "pikeIndex": "162",
+      "title": "Four Forms",
+      "length": "34:47"
     },
     {
       "year": "2015",
-      "overallIndex": "163",
-      "pikeIndex": "Blue Tide",
-      "title": "29:35",
-      "length": "August 11 (download edition)"
+      "pikeIndex": "163",
+      "title": "Blue Tide",
+      "length": "29:35"
     },
     {
       "year": "2015",
-      "overallIndex": "164",
-      "pikeIndex": "Ghoul",
-      "title": "27:45",
-      "length": "August 18 (download edition)"
+      "pikeIndex": "164",
+      "title": "Ghoul",
+      "length": "27:45"
     },
     {
       "year": "2015",
-      "overallIndex": "165",
-      "pikeIndex": "Orange Tree",
-      "title": "27:47",
-      "length": "August 21 (download edition)"
+      "pikeIndex": "165",
+      "title": "Orange Tree",
+      "length": "27:47"
     },
     {
       "year": "2015",
-      "overallIndex": "166",
-      "pikeIndex": "Region",
-      "title": "33:11",
-      "length": "August 25 (download edition)"
+      "pikeIndex": "166",
+      "title": "Region",
+      "length": "33:11"
     },
     {
       "year": "2015",
-      "overallIndex": "167",
-      "pikeIndex": "Shapeless",
-      "title": "30:23",
-      "length": "August 27 (download edition)"
+      "pikeIndex": "167",
+      "title": "Shapeless",
+      "length": "30:23"
     },
     {
       "year": "2015",
-      "overallIndex": "168",
-      "pikeIndex": "Ognarader",
-      "title": "28:50",
-      "length": "September 2 (download edition)"
+      "pikeIndex": "168",
+      "title": "Ognarader",
+      "length": "28:50"
     },
     {
       "year": "2015",
-      "overallIndex": "169",
-      "pikeIndex": "The Windowsill",
-      "title": "30:24",
-      "length": "September 6 (download edition)"
+      "pikeIndex": "169",
+      "title": "The Windowsill",
+      "length": "30:24"
     },
     {
       "year": "2015",
-      "overallIndex": "170",
-      "pikeIndex": "Washed Away",
-      "title": "29:48",
-      "length": "September 12 (download edition)"
+      "pikeIndex": "170",
+      "title": "Washed Away",
+      "length": "29:48"
     },
     {
       "year": "2015",
-      "overallIndex": "171",
-      "pikeIndex": "A Ghost Took My Homework",
-      "title": "29:56",
-      "length": "September 17 (download edition)"
+      "pikeIndex": "171",
+      "title": "A Ghost Took My Homework",
+      "length": "29:56"
     },
     {
       "year": "2015",
-      "overallIndex": "172",
-      "pikeIndex": "Crest of the Hill",
-      "title": "30:35",
-      "length": "September 19 (download edition)"
+      "pikeIndex": "172",
+      "title": "Crest of the Hill",
+      "length": "30:35"
     },
     {
       "year": "2015",
-      "overallIndex": "173",
-      "pikeIndex": "The Blob",
-      "title": "28:43",
-      "length": "September 24 (download edition)"
+      "pikeIndex": "173",
+      "title": "The Blob",
+      "length": "28:43"
     },
     {
       "year": "2015",
-      "overallIndex": "174",
-      "pikeIndex": "Last House on Slunk Street",
-      "title": "29:00",
-      "length": "September 26 (download edition)"
+      "pikeIndex": "174",
+      "title": "Last House on Slunk Street",
+      "length": "29:00"
     },
     {
       "year": "2015",
-      "overallIndex": "175",
-      "pikeIndex": "Quilted",
-      "title": "29:28",
-      "length": "September 29 (download edition)"
+      "pikeIndex": "175",
+      "title": "Quilted",
+      "length": "29:28"
     },
     {
       "year": "2015",
-      "overallIndex": "176",
-      "pikeIndex": "31 Days Til Halloween: Visitor From the Mirror",
-      "title": "29:38",
-      "length": "October 1 (download edition)"
+      "pikeIndex": "176",
+      "title": "31 Days Til Halloween: Visitor From the Mirror",
+      "length": "29:38"
     },
     {
       "year": "2015",
-      "overallIndex": "177",
-      "pikeIndex": "30 Days Til Halloween: Swollen Glasses",
-      "title": "30:56",
-      "length": "October 2 (download edition)"
+      "pikeIndex": "177",
+      "title": "30 Days Til Halloween: Swollen Glasses",
+      "length": "30:56"
     },
     {
       "year": "2015",
-      "overallIndex": "178",
-      "pikeIndex": "29 Days Til Halloween: Blurmwood",
-      "title": "29:11",
-      "length": "October 3 (download edition)"
+      "pikeIndex": "178",
+      "title": "29 Days Til Halloween: Blurmwood",
+      "length": "29:11"
     },
     {
       "year": "2015",
-      "overallIndex": "179",
-      "pikeIndex": "28 Days Til Halloween: The Insides of the Outsides",
-      "title": "30:42",
-      "length": "October 4 (download edition)"
+      "pikeIndex": "179",
+      "title": "28 Days Til Halloween: The Insides of the Outsides",
+      "length": "30:42"
     },
     {
       "year": "2015",
-      "overallIndex": "180",
-      "pikeIndex": "27 Days Til Halloween: Cavern Guide",
-      "title": "30:18",
-      "length": "October 5 (download edition)"
+      "pikeIndex": "180",
+      "title": "27 Days Til Halloween: Cavern Guide",
+      "length": "30:18"
     },
     {
       "year": "2015",
-      "overallIndex": "181",
-      "pikeIndex": "26 Days Til Halloween: Bogwitch",
-      "title": "30:54",
-      "length": "October 6 (download edition)"
+      "pikeIndex": "181",
+      "title": "26 Days Til Halloween: Bogwitch",
+      "length": "30:54"
     },
     {
       "year": "2015",
-      "overallIndex": "182",
-      "pikeIndex": "25 Days Til Halloween: Window Fragment",
-      "title": "29:55",
-      "length": "October 7 (download edition)"
+      "pikeIndex": "182",
+      "title": "25 Days Til Halloween: Window Fragment",
+      "length": "29:55"
     },
     {
       "year": "2015",
-      "overallIndex": "183",
-      "pikeIndex": "24 Days Til Halloween: Screaming Scalp",
-      "title": "29:51",
-      "length": "October 8 (download edition)"
+      "pikeIndex": "183",
+      "title": "24 Days Til Halloween: Screaming Scalp",
+      "length": "29:51"
     },
     {
       "year": "2015",
-      "overallIndex": "184",
-      "pikeIndex": "23 Days Til Halloween: Wax",
-      "title": "30:19",
-      "length": "October 9 (download edition)"
+      "pikeIndex": "184",
+      "title": "23 Days Til Halloween: Wax",
+      "length": "30:19"
     },
     {
       "year": "2015",
-      "overallIndex": "185",
-      "pikeIndex": "22 Days Til Halloween: I Got This Costume From the Sears Catalog",
-      "title": "30:06",
-      "length": "October 10 (free download edition)"
+      "pikeIndex": "185",
+      "title": "22 Days Til Halloween: I Got This Costume From the Sears Catalog",
+      "length": "30:06"
     },
     {
       "year": "2015",
-      "overallIndex": "186",
-      "pikeIndex": "21 Days Til Halloween: Cement Decay",
-      "title": "30:14",
-      "length": "October 11 (download edition)"
+      "pikeIndex": "186",
+      "title": "21 Days Til Halloween: Cement Decay",
+      "length": "30:14"
     },
     {
       "year": "2015",
-      "overallIndex": "187",
-      "pikeIndex": "20 Days Til Halloween: Forgotten Experiment",
-      "title": "29:47",
-      "length": "October 12 (download edition)"
+      "pikeIndex": "187",
+      "title": "20 Days Til Halloween: Forgotten Experiment",
+      "length": "29:47"
     },
     {
       "year": "2015",
-      "overallIndex": "188",
-      "pikeIndex": "19 Days Til Halloween: Light in Window",
-      "title": "29:20",
-      "length": "October 13 (download edition)"
+      "pikeIndex": "188",
+      "title": "19 Days Til Halloween: Light in Window",
+      "length": "29:20"
     },
     {
       "year": "2015",
-      "overallIndex": "189",
-      "pikeIndex": "18 Days Til Halloween: Blue Squared",
-      "title": "29:04",
-      "length": "October 14 (download edition)"
+      "pikeIndex": "189",
+      "title": "18 Days Til Halloween: Blue Squared",
+      "length": "29:04"
     },
     {
       "year": "2015",
-      "overallIndex": "190",
-      "pikeIndex": "17 Days Til Halloween: 1079",
-      "title": "30:16",
-      "length": "October 15 (download edition)"
+      "pikeIndex": "190",
+      "title": "17 Days Til Halloween: 1079",
+      "length": "30:16"
     },
     {
       "year": "2015",
-      "overallIndex": "191",
-      "pikeIndex": "16 Days Til Halloween: Cellar",
-      "title": "30:03",
-      "length": "October 16 (download edition)"
+      "pikeIndex": "191",
+      "title": "16 Days Til Halloween: Cellar",
+      "length": "30:03"
     },
     {
       "year": "2015",
-      "overallIndex": "192",
-      "pikeIndex": "15 Days Til Halloween: Grotesques",
-      "title": "30:20",
-      "length": "October 17 (download edition)"
+      "pikeIndex": "192",
+      "title": "15 Days Til Halloween: Grotesques",
+      "length": "30:20"
     },
     {
       "year": "2015",
-      "overallIndex": "193",
-      "pikeIndex": "14 Days Til Halloween: Voice From the Dead Forest",
-      "title": "29:52",
-      "length": "October 18 (download edition)"
+      "pikeIndex": "193",
+      "title": "14 Days Til Halloween: Voice From the Dead Forest",
+      "length": "29:52"
     },
     {
       "year": "2015",
-      "overallIndex": "194",
-      "pikeIndex": "13 Days Til Halloween: Maple Syrup",
-      "title": "30:10",
-      "length": "October 19 (download edition)"
+      "pikeIndex": "194",
+      "title": "13 Days Til Halloween: Maple Syrup",
+      "length": "30:10"
     },
     {
       "year": "2015",
-      "overallIndex": "195",
-      "pikeIndex": "12 Days Til Halloween: Face Sling Shot",
-      "title": "29:39",
-      "length": "October 20 (download edition)"
+      "pikeIndex": "195",
+      "title": "12 Days Til Halloween: Face Sling Shot",
+      "length": "29:39"
     },
     {
       "year": "2015",
-      "overallIndex": "196",
-      "pikeIndex": "11 Days Til Halloween: Reflection",
-      "title": "30:39",
-      "length": "October 21 (download edition)"
+      "pikeIndex": "196",
+      "title": "11 Days Til Halloween: Reflection",
+      "length": "30:39"
     },
     {
       "year": "2015",
-      "overallIndex": "197",
-      "pikeIndex": "10 Days Til Halloween: Residue",
-      "title": "29:02",
-      "length": "October 22 (download edition)"
+      "pikeIndex": "197",
+      "title": "10 Days Til Halloween: Residue",
+      "length": "29:02"
     },
     {
       "year": "2015",
-      "overallIndex": "198",
-      "pikeIndex": "9 Days Til Halloween: Eye on Spiral",
-      "title": "28:26",
-      "length": "October 23 (download edition)"
+      "pikeIndex": "198",
+      "title": "9 Days Til Halloween: Eye on Spiral",
+      "length": "28:26"
     },
     {
       "year": "2015",
-      "overallIndex": "199",
-      "pikeIndex": "8 Days Til Halloween: Flare Up",
-      "title": "30:52",
-      "length": "October 24 (download edition)"
+      "pikeIndex": "199",
+      "title": "8 Days Til Halloween: Flare Up",
+      "length": "30:52"
     },
     {
       "year": "2015",
-      "overallIndex": "200",
-      "pikeIndex": "7 Days Til Halloween: Cavernous",
-      "title": "30:31",
-      "length": "October 25 (download edition)"
+      "pikeIndex": "200",
+      "title": "7 Days Til Halloween: Cavernous",
+      "length": "30:31"
     },
     {
       "year": "2015",
-      "overallIndex": "201",
-      "pikeIndex": "6 Days Til Halloween: Underlair",
-      "title": "30:17",
-      "length": "October 26 (download edition)"
+      "pikeIndex": "201",
+      "title": "6 Days Til Halloween: Underlair",
+      "length": "30:17"
     },
     {
       "year": "2015",
-      "overallIndex": "202",
-      "pikeIndex": "5 Days Til Halloween: Scrapbook Front",
-      "title": "30:29",
-      "length": "October 27 (download edition)"
+      "pikeIndex": "202",
+      "title": "5 Days Til Halloween: Scrapbook Front",
+      "length": "30:29"
     },
     {
       "year": "2015",
-      "overallIndex": "203",
-      "pikeIndex": "4 Days Til Halloween: Silent Photo",
-      "title": "29:19",
-      "length": "October 28 (download edition)"
+      "pikeIndex": "203",
+      "title": "4 Days Til Halloween: Silent Photo",
+      "length": "29:19"
     },
     {
       "year": "2015",
-      "overallIndex": "204",
-      "pikeIndex": "3 Days Til Halloween: Crow Hedge",
-      "title": "29:52",
-      "length": "October 29 (download edition)"
+      "pikeIndex": "204",
+      "title": "3 Days Til Halloween: Crow Hedge",
+      "length": "29:52"
     },
     {
       "year": "2015",
-      "overallIndex": "205",
-      "pikeIndex": "2 Days Til Halloween: Cold Frost",
-      "title": "31:07",
-      "length": "October 30 (download edition)"
+      "pikeIndex": "205",
+      "title": "2 Days Til Halloween: Cold Frost",
+      "length": "31:07"
     },
     {
       "year": "2015",
-      "overallIndex": "206",
-      "pikeIndex": "Happy Halloween: Silver Shamrock",
-      "title": "30:32",
-      "length": "October 31 (download edition)"
+      "pikeIndex": "206",
+      "title": "Happy Halloween: Silver Shamrock",
+      "length": "30:32"
     },
     {
       "year": "2015",
-      "overallIndex": "207",
-      "pikeIndex": "365 Days Til Halloween: Smash",
-      "title": "30:27",
-      "length": "November 1 (download edition)"
+      "pikeIndex": "207",
+      "title": "365 Days Til Halloween: Smash",
+      "length": "30:27"
     },
     {
       "year": "2015",
-      "overallIndex": "208",
-      "pikeIndex": "The Wishing Brook",
-      "title": "29:50",
-      "length": "November 2 (download edition)"
+      "pikeIndex": "208",
+      "title": "The Wishing Brook",
+      "length": "29:50"
     },
     {
       "year": "2015",
-      "overallIndex": "209",
-      "pikeIndex": "Rooms of Illusions",
-      "title": "29:14",
-      "length": "November 4 (download edition)"
+      "pikeIndex": "209",
+      "title": "Rooms of Illusions",
+      "length": "29:14"
     },
     {
       "year": "2015",
-      "overallIndex": "210",
-      "pikeIndex": "Sunken Parlor",
-      "title": "28:50",
-      "length": "November 7 (download edition)"
+      "pikeIndex": "210",
+      "title": "Sunken Parlor",
+      "length": "28:50"
     },
     {
       "year": "2015",
-      "overallIndex": "211",
-      "pikeIndex": "Screen Door",
-      "title": "28:04",
-      "length": "November 14 (download edition)"
+      "pikeIndex": "211",
+      "title": "Screen Door",
+      "length": "28:04"
     },
     {
       "year": "2015",
-      "overallIndex": "212",
-      "pikeIndex": "Hornet",
-      "title": "28:15",
-      "length": "November 16 (download edition)"
+      "pikeIndex": "212",
+      "title": "Hornet",
+      "length": "28:15"
     },
     {
       "year": "2015",
-      "overallIndex": "213",
-      "pikeIndex": "Crumple",
-      "title": "29:11",
-      "length": "November 19 (download edition)"
+      "pikeIndex": "213",
+      "title": "Crumple",
+      "length": "29:11"
     },
     {
       "year": "2015",
-      "overallIndex": "214",
-      "pikeIndex": "Trace Candle",
-      "title": "28:14",
-      "length": "November 25 (download edition)"
+      "pikeIndex": "214",
+      "title": "Trace Candle",
+      "length": "28:14"
     },
     {
       "year": "2015",
-      "overallIndex": "215",
-      "pikeIndex": "Teflecter",
-      "title": "29:06",
-      "length": "December 2 (download edition)"
+      "pikeIndex": "215",
+      "title": "Teflecter",
+      "length": "29:06"
     },
     {
       "year": "2015",
-      "overallIndex": "216",
-      "pikeIndex": "Wheels of Ferris",
-      "title": "30:01",
-      "length": "December 8 (download edition)"
+      "pikeIndex": "216",
+      "title": "Wheels of Ferris",
+      "length": "30:01"
     },
     {
       "year": "2015",
-      "overallIndex": "217",
-      "pikeIndex": "Pike Doors",
-      "title": "30:29",
-      "length": "December 19 (download edition)"
+      "pikeIndex": "217",
+      "title": "Pike Doors",
+      "length": "30:29"
     },
     {
       "year": "2015",
-      "overallIndex": "218",
-      "pikeIndex": "Old Toys",
-      "title": "29:50",
-      "length": "December 23 (download edition)"
+      "pikeIndex": "218",
+      "title": "Old Toys",
+      "length": "29:50"
     },
     {
       "year": "2015",
-      "overallIndex": "219",
-      "pikeIndex": "Rain Drops on Christmas",
-      "title": "28:12",
-      "length": "December 24 (download edition – free on Christmas Eve & Day)"
+      "pikeIndex": "219",
+      "title": "Rain Drops on Christmas",
+      "length": "28:12"
     },
     {
       "year": "2016",
-      "overallIndex": "220",
-      "pikeIndex": "Mirror Realms",
-      "title": "29:09",
-      "length": "January 6 (download edition)"
+      "pikeIndex": "220",
+      "title": "Mirror Realms",
+      "length": "29:09"
     },
     {
       "year": "2016",
-      "overallIndex": "221",
-      "pikeIndex": "Cove Cloud",
-      "title": "28:48",
-      "length": "January 11 (download edition)"
+      "pikeIndex": "221",
+      "title": "Cove Cloud",
+      "length": "28:48"
     },
     {
       "year": "2016",
-      "overallIndex": "222",
-      "pikeIndex": "Out of the Attic",
-      "title": "28:37",
-      "length": "January 15 (download edition)"
+      "pikeIndex": "222",
+      "title": "Out of the Attic",
+      "length": "28:37"
     },
     {
       "year": "2016",
-      "overallIndex": "223",
-      "pikeIndex": "Dragging the Fence",
-      "title": "29:58",
-      "length": "January 19 (download edition)"
+      "pikeIndex": "223",
+      "title": "Dragging the Fence",
+      "length": "29:58"
     },
     {
       "year": "2016",
-      "overallIndex": "224",
-      "pikeIndex": "Buildor",
-      "title": "28:31",
-      "length": "January 23 (download edition)"
+      "pikeIndex": "224",
+      "title": "Buildor",
+      "length": "28:31"
     },
     {
       "year": "2016",
-      "overallIndex": "225",
-      "pikeIndex": "Florrmat",
-      "title": "29:00",
-      "length": "January 26 (download edition)"
+      "pikeIndex": "225",
+      "title": "Florrmat",
+      "length": "29:00"
     },
     {
       "year": "2016",
-      "overallIndex": "226",
-      "pikeIndex": "Happy Birthday MJ 23",
-      "title": "28:58",
-      "length": "February 17 (download edition)[25]"
+      "pikeIndex": "226",
+      "title": "Happy Birthday MJ 23",
+      "length": "28:58"
     },
     {
       "year": "2016",
-      "overallIndex": "227",
-      "pikeIndex": "Arcade of the Deserted",
-      "title": "29:34",
-      "length": "February 20 (download edition)"
+      "pikeIndex": "227",
+      "title": "Arcade of the Deserted",
+      "length": "29:34"
     },
     {
       "year": "2016",
-      "overallIndex": "228",
-      "pikeIndex": "The Creaking Stairs",
-      "title": "29:09",
-      "length": "February 24 (download edition)"
+      "pikeIndex": "228",
+      "title": "The Creaking Stairs",
+      "length": "29:09"
     },
     {
       "year": "2016",
-      "overallIndex": "229",
-      "pikeIndex": "Cabs",
-      "title": "29:14",
-      "length": "February 28 (download edition)"
+      "pikeIndex": "229",
+      "title": "Cabs",
+      "length": "29:14"
     },
     {
       "year": "2016",
-      "overallIndex": "230",
-      "pikeIndex": "Rooftop",
-      "title": "29:52",
-      "length": "March 14 (download edition)"
+      "pikeIndex": "230",
+      "title": "Rooftop",
+      "length": "29:52"
     },
     {
       "year": "2016",
-      "overallIndex": "231",
-      "pikeIndex": "Drift",
-      "title": "27:46",
-      "length": "March 14 (download edition)"
+      "pikeIndex": "231",
+      "title": "Drift",
+      "length": "27:46"
     },
     {
       "year": "2016",
-      "overallIndex": "232",
-      "pikeIndex": "Lightboard",
-      "title": "29:53",
-      "length": "March 26 (download edition)"
+      "pikeIndex": "232",
+      "title": "Lightboard",
+      "length": "29:53"
     },
     {
       "year": "2016",
-      "overallIndex": "233",
-      "pikeIndex": "22222222",
-      "title": "30:29",
-      "length": "March 26 (download edition)"
+      "pikeIndex": "233",
+      "title": "22222222",
+      "length": "30:29"
     },
     {
       "year": "2016",
-      "overallIndex": "234",
-      "pikeIndex": "Coupon",
-      "title": "29:48",
-      "length": "March 30 (download edition)"
+      "pikeIndex": "234",
+      "title": "Coupon",
+      "length": "29:48"
     },
     {
       "year": "2016",
-      "overallIndex": "235",
-      "pikeIndex": "Oneiric Pool",
-      "title": "28:48",
-      "length": "October 27 (download edition)"
+      "pikeIndex": "235",
+      "title": "Oneiric Pool",
+      "length": "28:48"
     },
     {
       "year": "2016",
-      "overallIndex": "236",
-      "pikeIndex": "Castle on Slunk Hill",
-      "title": "31:59",
-      "length": "November 3 (download edition)"
+      "pikeIndex": "236",
+      "title": "Castle on Slunk Hill",
+      "length": "31:59"
     },
     {
       "year": "2016",
-      "overallIndex": "237",
-      "pikeIndex": "The Five Blocks",
-      "title": "29:25",
-      "length": "November 17 (download edition)"
+      "pikeIndex": "237",
+      "title": "The Five Blocks",
+      "length": "29:25"
     },
     {
       "year": "2016",
-      "overallIndex": "238",
-      "pikeIndex": "Attic Garden",
-      "title": "30:20",
-      "length": "November 21 (download edition)"
+      "pikeIndex": "238",
+      "title": "Attic Garden",
+      "length": "30:20"
     },
     {
       "year": "2016",
-      "overallIndex": "239",
-      "pikeIndex": "The Mermaid Stairwell",
-      "title": "28:25",
-      "length": "November 25 (download edition)"
+      "pikeIndex": "239",
+      "title": "The Mermaid Stairwell",
+      "length": "28:25"
     },
     {
       "year": "2016",
-      "overallIndex": "240",
-      "pikeIndex": "Chart",
-      "title": "28:27",
-      "length": "December 1 (download edition)"
+      "pikeIndex": "240",
+      "title": "Chart",
+      "length": "28:27"
     },
     {
       "year": "2016",
-      "overallIndex": "241",
-      "pikeIndex": "Sparks in the Dark",
-      "title": "28:50",
-      "length": "December 9 (download edition) (Vinyl edition: December 2017)"
+      "pikeIndex": "241",
+      "title": "Sparks in the Dark",
+      "length": "28:50"
     },
     {
       "year": "2016",
-      "overallIndex": "242",
-      "pikeIndex": "Hamdens Hollow",
-      "title": "30:06",
-      "length": "December 12 (download edition)"
+      "pikeIndex": "242",
+      "title": "Hamdens Hollow",
+      "length": "30:06"
     },
     {
       "year": "2016",
-      "overallIndex": "243",
-      "pikeIndex": "Santa's Toy Workshop",
-      "title": "31:23",
-      "length": "December 23 (download edition)"
+      "pikeIndex": "243",
+      "title": "Santa's Toy Workshop",
+      "length": "31:23"
     },
     {
       "year": "2017",
-      "overallIndex": "244",
-      "pikeIndex": "Out Orbit",
-      "title": "27:59",
-      "length": "January 11 (download edition)"
+      "pikeIndex": "244",
+      "title": "Out Orbit",
+      "length": "27:59"
     },
     {
       "year": "2017",
-      "overallIndex": "245",
-      "pikeIndex": "Space Viking",
-      "title": "30:31",
-      "length": "January 14 (download edition)"
+      "pikeIndex": "245",
+      "title": "Space Viking",
+      "length": "30:31"
     },
     {
       "year": "2017",
-      "overallIndex": "246",
-      "pikeIndex": "Nettle",
-      "title": "28:23",
-      "length": "January 20 (download edition)"
+      "pikeIndex": "246",
+      "title": "Nettle",
+      "length": "28:23"
     },
     {
       "year": "2017",
-      "overallIndex": "247",
-      "pikeIndex": "Rivers in the Seas",
-      "title": "31:22",
-      "length": "January 29 (download edition)"
+      "pikeIndex": "247",
+      "title": "Rivers in the Seas",
+      "length": "31:22"
     },
     {
       "year": "2017",
-      "overallIndex": "248",
-      "pikeIndex": "Adrift in Sleepwakefulness",
-      "title": "28:18",
-      "length": "January 31 (download edition)"
+      "pikeIndex": "248",
+      "title": "Adrift in Sleepwakefulness",
+      "length": "28:18"
     },
     {
       "year": "2017",
-      "overallIndex": "249",
-      "pikeIndex": "The Moss Lands",
-      "title": "28:33",
-      "length": "February 8 (download edition)"
+      "pikeIndex": "249",
+      "title": "The Moss Lands",
+      "length": "28:33"
     },
     {
       "year": "2017",
-      "overallIndex": "250",
       "pikeIndex": "250",
-      "title": "30:28",
-      "length": "February 11 (download edition)"
+      "title": "250",
+      "length": "30:28"
     },
     {
       "year": "2017",
-      "overallIndex": "251",
-      "pikeIndex": "Waterfall Cove",
-      "title": "28:53",
-      "length": "February 17 (download edition)"
+      "pikeIndex": "251",
+      "title": "Waterfall Cove",
+      "length": "28:53"
     },
     {
       "year": "2017",
-      "overallIndex": "252",
-      "pikeIndex": "Bozo in the Labyrinth",
-      "title": "30:32",
-      "length": "February 23 (download edition)"
+      "pikeIndex": "252",
+      "title": "Bozo in the Labyrinth",
+      "length": "30:32"
     },
     {
       "year": "2017",
-      "overallIndex": "253",
-      "pikeIndex": "Coop Erstown",
-      "title": "29:48",
-      "length": "February 28 (download edition)"
+      "pikeIndex": "253",
+      "title": "Coop Erstown",
+      "length": "29:48"
     },
     {
       "year": "2017",
-      "overallIndex": "254",
-      "pikeIndex": "Woven Twigs",
-      "title": "30:05",
-      "length": "March 3 (download edition)"
+      "pikeIndex": "254",
+      "title": "Woven Twigs",
+      "length": "30:05"
     },
     {
       "year": "2017",
-      "overallIndex": "255",
-      "pikeIndex": "Abominable Snow Scalp",
-      "title": "29:22",
-      "length": "March 9 (download edition)"
+      "pikeIndex": "255",
+      "title": "Abominable Snow Scalp",
+      "length": "29:22"
     },
     {
       "year": "2017",
-      "overallIndex": "256",
-      "pikeIndex": "Meteor Firefly Net",
-      "title": "29:43",
-      "length": "March 17 (download edition)"
+      "pikeIndex": "256",
+      "title": "Meteor Firefly Net",
+      "length": "29:43"
     },
     {
       "year": "2017",
-      "overallIndex": "257",
-      "pikeIndex": "Blank Slate",
-      "title": "30:20",
-      "length": "March 24 (download edition)"
+      "pikeIndex": "257",
+      "title": "Blank Slate",
+      "length": "30:20"
     },
     {
       "year": "2017",
-      "overallIndex": "258",
-      "pikeIndex": "Echo",
-      "title": "28:50",
-      "length": "March 30 (download edition)"
+      "pikeIndex": "258",
+      "title": "Echo",
+      "length": "28:50"
     },
     {
       "year": "2017",
-      "overallIndex": "259",
-      "pikeIndex": "Undersea Dead City",
-      "title": "28:27",
-      "length": "April 1 (download edition)"
+      "pikeIndex": "259",
+      "title": "Undersea Dead City",
+      "length": "28:27"
     },
     {
       "year": "2017",
-      "overallIndex": "260",
-      "pikeIndex": "Ferry to the Island of Lost Minds",
-      "title": "28:04",
-      "length": "April 7 (download edition)"
+      "pikeIndex": "260",
+      "title": "Ferry to the Island of Lost Minds",
+      "length": "28:04"
     },
     {
       "year": "2017",
-      "overallIndex": "261",
-      "pikeIndex": "Portal to the Red Waterfall",
-      "title": "28:42",
-      "length": "April 13 (download edition)"
+      "pikeIndex": "261",
+      "title": "Portal to the Red Waterfall",
+      "length": "28:42"
     },
     {
       "year": "2017",
-      "overallIndex": "262",
-      "pikeIndex": "Nib Y Nool",
-      "title": "29:20",
-      "length": "April 15 (download edition)"
+      "pikeIndex": "262",
+      "title": "Nib Y Nool",
+      "length": "29:20"
     },
     {
       "year": "2017",
-      "overallIndex": "263",
-      "pikeIndex": "Glacier",
-      "title": "30:59",
-      "length": "April 24 (download edition)"
+      "pikeIndex": "263",
+      "title": "Glacier",
+      "length": "30:59"
     },
     {
       "year": "2017",
-      "overallIndex": "264",
-      "pikeIndex": "Poseidon",
-      "title": "30:21",
-      "length": "May 5 (download edition) (vinyl edition: January 2018)"
+      "pikeIndex": "264",
+      "title": "Poseidon",
+      "length": "30:21"
     },
     {
       "year": "2017",
-      "overallIndex": "265",
-      "pikeIndex": "Ride Operator Q Bozo",
-      "title": "31:25",
-      "length": "June 6 (download edition)"
+      "pikeIndex": "265",
+      "title": "Ride Operator Q Bozo",
+      "length": "31:25"
     },
     {
       "year": "2017",
-      "overallIndex": "266",
-      "pikeIndex": "Far",
-      "title": "27:53",
-      "length": "July 8 (download edition)"
+      "pikeIndex": "266",
+      "title": "Far",
+      "length": "27:53"
     },
     {
       "year": "2017",
-      "overallIndex": "267",
-      "pikeIndex": "Thoracic Spine Collapser",
-      "title": "29:36",
-      "length": "July 15 (download edition)"
+      "pikeIndex": "267",
+      "title": "Thoracic Spine Collapser",
+      "length": "29:36"
     },
     {
       "year": "2017",
-      "overallIndex": "268",
-      "pikeIndex": "Sonar Rainbow",
-      "title": "29:35",
-      "length": "July 20 (download edition)"
+      "pikeIndex": "268",
+      "title": "Sonar Rainbow",
+      "length": "29:35"
     },
     {
       "year": "2017",
-      "overallIndex": "269",
-      "pikeIndex": "Decaying Parchment",
-      "title": "32:49",
-      "length": "August 11 (download edition) (vinyl: December)"
+      "pikeIndex": "269",
+      "title": "Decaying Parchment",
+      "length": "32:49"
     },
     {
       "year": "2017",
-      "overallIndex": "270",
-      "pikeIndex": "A3",
-      "title": "28:50",
-      "length": "August 13 (download edition)"
+      "pikeIndex": "270",
+      "title": "A3",
+      "length": "28:50"
     },
     {
       "year": "2017",
-      "overallIndex": "271",
-      "pikeIndex": "The Squaring of the Circle",
-      "title": "29:25",
-      "length": "August 25 (download edition)"
+      "pikeIndex": "271",
+      "title": "The Squaring of the Circle",
+      "length": "29:25"
     },
     {
       "year": "2017",
-      "overallIndex": "272",
-      "pikeIndex": "Coniunctio",
-      "title": "28:25",
-      "length": "August 28 (download edition)"
+      "pikeIndex": "272",
+      "title": "Coniunctio",
+      "length": "28:25"
     },
     {
       "year": "2017",
-      "overallIndex": "273",
-      "pikeIndex": "Guillotine Furnace",
-      "title": "28:03",
-      "length": "December 9 (download edition)[26]"
+      "pikeIndex": "273",
+      "title": "Guillotine Furnace",
+      "length": "28:03"
     },
     {
       "year": "2018",
-      "overallIndex": "274",
-      "pikeIndex": "Fourneau Cosmique",
-      "title": "28:06",
-      "length": "February 22 (download edition)[27]"
+      "pikeIndex": "274",
+      "title": "Fourneau Cosmique",
+      "length": "28:06"
     },
     {
       "year": "2018",
-      "overallIndex": "275",
-      "pikeIndex": "Dreamthread",
-      "title": "29:41",
-      "length": "August 4[28] (download edition)"
+      "pikeIndex": "275",
+      "title": "Dreamthread",
+      "length": "29:41"
     },
     {
       "year": "2020",
-      "overallIndex": "276",
-      "pikeIndex": "Healing Inside Outside Every Side",
-      "title": "30:26",
-      "length": "February 3 (limited edition),[29] April 4 (download edition)[30]"
+      "pikeIndex": "276",
+      "title": "Healing Inside Outside Every Side",
+      "length": "30:26"
     },
     {
       "year": "2020",
-      "overallIndex": "277",
-      "pikeIndex": "Division Is the Devil's Playground",
-      "title": "30:08",
-      "length": "February 3 (limited edition),[31] August 23 (download edition)[32]"
+      "pikeIndex": "277",
+      "title": "Division Is the Devil's Playground",
+      "length": "30:08"
     },
     {
       "year": "2020",
-      "overallIndex": "278",
-      "pikeIndex": "Unexpected Journeys",
-      "title": "28:07",
-      "length": "February 21 (limited edition),[33] July 30 (download edition)[34]"
+      "pikeIndex": "278",
+      "title": "Unexpected Journeys",
+      "length": "28:07"
     },
     {
       "year": "2020",
-      "overallIndex": "279",
-      "pikeIndex": "Skeleton Keys",
-      "title": "29:15",
-      "length": "March 2 (limited edition), August 24 (download edition)"
+      "pikeIndex": "279",
+      "title": "Skeleton Keys",
+      "length": "29:15"
     },
     {
       "year": "2020",
-      "overallIndex": "280",
-      "pikeIndex": "In Dreamland",
-      "title": "29:38",
-      "length": "March 16,[35] November 13 (download edition)"
+      "pikeIndex": "280",
+      "title": "In Dreamland",
+      "length": "29:38"
     },
     {
       "year": "2020",
-      "overallIndex": "281",
-      "pikeIndex": "The Sea Remembers Its Own",
-      "title": "27:59",
-      "length": "March 16,[36] October 4 (download edition)"
+      "pikeIndex": "281",
+      "title": "The Sea Remembers Its Own",
+      "length": "27:59"
     },
     {
       "year": "2020",
-      "overallIndex": "282",
-      "pikeIndex": "Toys R Us Tantrums",
-      "title": "28:28",
-      "length": "March 30,[37] October 5 (download edition)"
+      "pikeIndex": "282",
+      "title": "Toys R Us Tantrums",
+      "length": "28:28"
     },
     {
       "year": "2020",
-      "overallIndex": "283",
-      "pikeIndex": "Once Upon a Distant Plane",
-      "title": "31:11",
-      "length": "September 10 (download edition)"
+      "pikeIndex": "283",
+      "title": "Once Upon a Distant Plane",
+      "length": "31:11"
     },
     {
       "year": "2020",
-      "overallIndex": "284",
-      "pikeIndex": "Through the Looking Garden",
-      "title": "30:24",
-      "length": "November 28 (download edition)"
+      "pikeIndex": "284",
+      "title": "Through the Looking Garden",
+      "length": "30:24"
     },
     {
-      "year": "285",
-      "overallIndex": "The Stone of Folly",
-      "pikeIndex": "18:59",
-      "title": "March 22 (download edition)",
+      "year": "2021",
+      "pikeIndex": "285",
+      "title": "The Stone of Folly",
+      "length": "18:59"
+    },
+    {
+      "year": "2021",
+      "pikeIndex": "286",
+      "title": "Nautical Twilight",
       "length": ""
     },
     {
       "year": "2021",
-      "overallIndex": "286",
-      "pikeIndex": "Nautical Twilight",
-      "title": "",
-      "length": "(Pending Release)"
+      "pikeIndex": "287",
+      "title": "Electrum",
+      "length": "29:22"
     },
     {
       "year": "2021",
-      "overallIndex": "287",
-      "pikeIndex": "Electrum",
-      "title": "29:22",
-      "length": "February 28 (download edition)"
+      "pikeIndex": "288",
+      "title": "Liminal Monorail",
+      "length": "27:31"
     },
     {
       "year": "2021",
-      "overallIndex": "288",
-      "pikeIndex": "Liminal Monorail",
-      "title": "27:31",
-      "length": "February 28 (download edition)"
+      "pikeIndex": "289",
+      "title": "Pike 289",
+      "length": ""
     },
     {
       "year": "2021",
-      "overallIndex": "289",
-      "pikeIndex": "Pike 289",
-      "title": "",
-      "length": "(Pending Release)"
+      "pikeIndex": "290",
+      "title": "Pike 290",
+      "length": ""
     },
     {
       "year": "2021",
-      "overallIndex": "290",
-      "pikeIndex": "Pike 290",
-      "title": "",
-      "length": "(Pending Release)"
+      "pikeIndex": "291",
+      "title": "Fogray",
+      "length": "29:51"
     },
     {
       "year": "2021",
-      "overallIndex": "291",
-      "pikeIndex": "Fogray",
-      "title": "29:51",
-      "length": "April 9 (download edition)"
+      "pikeIndex": "292",
+      "title": "Galaxies",
+      "length": "28:37"
     },
     {
       "year": "2021",
-      "overallIndex": "292",
-      "pikeIndex": "Galaxies",
-      "title": "28:37",
-      "length": "May 30 (download edition)"
+      "pikeIndex": "295",
+      "title": "Pike 295",
+      "length": ""
     },
     {
       "year": "2021",
-      "overallIndex": "295",
-      "pikeIndex": "Pike 295",
-      "title": "",
-      "length": "(Pending Release)"
+      "pikeIndex": "296",
+      "title": "Ghouls of the Graves",
+      "length": "29:31"
     },
     {
       "year": "2021",
-      "overallIndex": "296",
-      "pikeIndex": "Ghouls of the Graves",
-      "title": "29:31",
-      "length": "October 21 (download edition)"
+      "pikeIndex": "297",
+      "title": "Fork",
+      "length": "30:02"
     },
     {
       "year": "2021",
-      "overallIndex": "297",
-      "pikeIndex": "Fork",
-      "title": "30:02",
-      "length": "November 3 (download edition)"
+      "pikeIndex": "298",
+      "title": "Robes of Citrine",
+      "length": "26:32"
     },
     {
       "year": "2021",
-      "overallIndex": "298",
-      "pikeIndex": "Robes of Citrine",
-      "title": "26:32",
-      "length": "November 11 (download edition)"
+      "pikeIndex": "299",
+      "title": "Thought Pond",
+      "length": "28:40"
     },
     {
       "year": "2021",
-      "overallIndex": "299",
-      "pikeIndex": "Thought Pond",
-      "title": "28:40",
-      "length": "November 27 (download edition)"
+      "pikeIndex": "300",
+      "title": "Quarry",
+      "length": "26:32"
     },
     {
       "year": "2021",
-      "overallIndex": "300",
-      "pikeIndex": "Quarry",
-      "title": "26:32",
-      "length": "December 16 (download edition)"
+      "pikeIndex": "301",
+      "title": "The Chariot of Saturn",
+      "length": "27:39"
     },
     {
       "year": "2021",
-      "overallIndex": "301",
-      "pikeIndex": "The Chariot of Saturn",
-      "title": "27:39",
-      "length": "December 18 (download edition)"
-    },
-    {
-      "year": "2021",
-      "overallIndex": "302",
-      "pikeIndex": "Cyborgs Robots & More",
-      "title": "29:07",
-      "length": "December 31 (download edition)"
+      "pikeIndex": "302",
+      "title": "Cyborgs Robots & More",
+      "length": "29:07"
     },
     {
       "year": "2022",
-      "overallIndex": "303",
-      "pikeIndex": "Castle of Franken Berry",
-      "title": "27:12",
-      "length": "January 11 (download edition)"
+      "pikeIndex": "303",
+      "title": "Castle of Franken Berry",
+      "length": "27:12"
     },
     {
       "year": "2022",
-      "overallIndex": "304",
-      "pikeIndex": "Rainbow Tower",
-      "title": "27:24",
-      "length": "January 20 (download edition)"
+      "pikeIndex": "304",
+      "title": "Rainbow Tower",
+      "length": "27:24"
     },
     {
       "year": "2022",
-      "overallIndex": "305",
-      "pikeIndex": "Two Story Hourglass",
-      "title": "28:07",
-      "length": "January 27 (download edition)"
+      "pikeIndex": "305",
+      "title": "Two Story Hourglass",
+      "length": "28:07"
     },
     {
       "year": "2022",
-      "overallIndex": "306",
-      "pikeIndex": "The Toy Cupboard",
-      "title": "27:08",
-      "length": "January 29 (download edition)"
+      "pikeIndex": "306",
+      "title": "The Toy Cupboard",
+      "length": "27:08"
     },
     {
       "year": "2022",
-      "overallIndex": "307",
-      "pikeIndex": "Mercury Beak",
-      "title": "27:33",
-      "length": "April 5 (download edition)"
+      "pikeIndex": "307",
+      "title": "Mercury Beak",
+      "length": "27:33"
     },
     {
       "year": "2022",
-      "overallIndex": "308",
-      "pikeIndex": "Theatre of the Disembodied",
-      "title": "27:41",
-      "length": "April 9 (download edition)"
+      "pikeIndex": "308",
+      "title": "Theatre of the Disembodied",
+      "length": "27:41"
     },
     {
       "year": "2022",
-      "overallIndex": "309",
-      "pikeIndex": "Cosmic Oven",
-      "title": "28:24",
-      "length": "April 28 (download edition)"
+      "pikeIndex": "309",
+      "title": "Cosmic Oven",
+      "length": "28:24"
     },
     {
       "year": "2022",
-      "overallIndex": "310",
-      "pikeIndex": "In the Laboratory of Doctor Septimus Pretorius",
-      "title": "26:58",
-      "length": "May 7 (download edition)"
+      "pikeIndex": "310",
+      "title": "In the Laboratory of Doctor Septimus Pretorius",
+      "length": "26:58"
     },
     {
       "year": "2022",
-      "overallIndex": "311",
-      "pikeIndex": "Furnace Follies",
-      "title": "29:00",
-      "length": "May 11 (download edition)"
+      "pikeIndex": "311",
+      "title": "Furnace Follies",
+      "length": "29:00"
     },
     {
       "year": "2022",
-      "overallIndex": "312",
-      "pikeIndex": "Gary Fukamoto My Childhood Best Friend Thanks for All the Times We Played Together",
-      "title": "27:05",
-      "length": "May 13 (download edition)"
+      "pikeIndex": "312",
+      "title": "Gary Fukamoto My Childhood Best Friend Thanks for All the Times We Played Together",
+      "length": "27:05"
     },
     {
       "year": "2022",
-      "overallIndex": "313",
-      "pikeIndex": "Vincent Price SHRUNKEN HEAD Apple Sculpture",
-      "title": "25:09",
-      "length": "May 20 (download edition)"
+      "pikeIndex": "313",
+      "title": "Vincent Price SHRUNKEN HEAD Apple Sculpture",
+      "length": "25:09"
     },
     {
       "year": "2022",
-      "overallIndex": "314",
-      "pikeIndex": "Rooster Coaster",
-      "title": "27:22",
-      "length": "June 3 (download edition)"
+      "pikeIndex": "314",
+      "title": "Rooster Coaster",
+      "length": "27:22"
     },
     {
       "year": "2022",
-      "overallIndex": "315",
-      "pikeIndex": "Arboretum",
-      "title": "26:59",
-      "length": "June 14 (download edition)"
+      "pikeIndex": "315",
+      "title": "Arboretum",
+      "length": "26:59"
     },
     {
       "year": "2022",
-      "overallIndex": "316",
-      "pikeIndex": "Angel Wings",
-      "title": "26:59",
-      "length": "June 18 (download edition)"
+      "pikeIndex": "316",
+      "title": "Angel Wings",
+      "length": "26:59"
     },
     {
       "year": "2022",
-      "overallIndex": "318",
-      "pikeIndex": "March 19, 2020",
-      "title": "27:00",
-      "length": "June 24 (download edition)"
+      "pikeIndex": "318",
+      "title": "March 19, 2020",
+      "length": "27:00"
     },
     {
       "year": "2022",
-      "overallIndex": "319",
-      "pikeIndex": "Dreams Remembered",
-      "title": "27:54",
-      "length": "July 5 (download edition)"
+      "pikeIndex": "319",
+      "title": "Dreams Remembered",
+      "length": "27:54"
     },
     {
       "year": "2022",
-      "overallIndex": "320",
-      "pikeIndex": "Dreams Remembered Version 2",
-      "title": "28:03",
-      "length": "July 7 (download edition)"
+      "pikeIndex": "320",
+      "title": "Dreams Remembered Version 2",
+      "length": "28:03"
     },
     {
       "year": "2022",
-      "overallIndex": "321",
-      "pikeIndex": "Warm Your Ancestors",
-      "title": "27:58",
-      "length": "July 9 (download edition)"
+      "pikeIndex": "321",
+      "title": "Warm Your Ancestors",
+      "length": "27:58"
     },
     {
       "year": "2022",
-      "overallIndex": "322",
-      "pikeIndex": "Doctor Lorca's Work",
-      "title": "26:16",
-      "length": "July 28 (download edition)"
+      "pikeIndex": "322",
+      "title": "Doctor Lorca's Work",
+      "length": "26:16"
     },
     {
       "year": "2022",
-      "overallIndex": "323",
-      "pikeIndex": "Thank You Taylor",
-      "title": "28:08",
-      "length": "August 16 (download edition)"
+      "pikeIndex": "323",
+      "title": "Thank You Taylor",
+      "length": "28:08"
     },
     {
       "year": "2022",
-      "overallIndex": "325",
-      "pikeIndex": "Language of the Mosaics",
-      "title": "26:45",
-      "length": "September 2 (download edition)"
+      "pikeIndex": "325",
+      "title": "Language of the Mosaics",
+      "length": "26:45"
     },
     {
       "year": "2022",
-      "overallIndex": "395",
-      "pikeIndex": "Holding the Ones You Love",
-      "title": "28:55",
-      "length": "December 8 (download edition)"
+      "pikeIndex": "395",
+      "title": "Holding the Ones You Love",
+      "length": "28:55"
     },
     {
       "year": "2022",
-      "overallIndex": "398",
-      "pikeIndex": "Dream Shores",
-      "title": "29:59",
-      "length": "December 9 (download edition)"
+      "pikeIndex": "398",
+      "title": "Dream Shores",
+      "length": "29:59"
     },
     {
       "year": "2022",
-      "overallIndex": "399",
-      "pikeIndex": "Gloworms",
-      "title": "30:38",
-      "length": ""
+      "pikeIndex": "399",
+      "title": "Gloworms",
+      "length": "30:38"
     },
     {
       "year": "2022",
-      "overallIndex": "400",
-      "pikeIndex": "Decorating",
-      "title": "30:17",
-      "length": "December 20 (download edition)"
+      "pikeIndex": "400",
+      "title": "Decorating",
+      "length": "30:17"
     },
     {
       "year": "2023",
-      "overallIndex": "415",
-      "pikeIndex": "Sarahnade",
-      "title": "30:59",
-      "length": "January 6 (download edition)"
+      "pikeIndex": "415",
+      "title": "Sarahnade",
+      "length": "30:59"
     },
     {
       "year": "2023",
-      "overallIndex": "415",
-      "pikeIndex": "Sarahnade No Drums",
-      "title": "30:59",
-      "length": ""
+      "pikeIndex": "415",
+      "title": "Sarahnade No Drums",
+      "length": "30:59"
     },
     {
       "year": "2023",
-      "overallIndex": "415",
-      "pikeIndex": "Sarahnade Version 2",
-      "title": "30:59",
-      "length": ""
+      "pikeIndex": "415",
+      "title": "Sarahnade Version 2",
+      "length": "30:59"
     },
     {
       "year": "2023",
-      "overallIndex": "416",
-      "pikeIndex": "That Overcast Day",
-      "title": "30:29",
-      "length": ""
+      "pikeIndex": "416",
+      "title": "That Overcast Day",
+      "length": "30:29"
     },
     {
       "year": "2023",
-      "overallIndex": "420",
-      "pikeIndex": "Echoing Eyes",
-      "title": "29:41",
-      "length": "January 13 (download edition)"
+      "pikeIndex": "420",
+      "title": "Echoing Eyes",
+      "length": "29:41"
     },
     {
       "year": "2023",
-      "overallIndex": "421",
-      "pikeIndex": "Streams",
-      "title": "29:54",
-      "length": "January 20 (download edition)"
+      "pikeIndex": "421",
+      "title": "Streams",
+      "length": "29:54"
     },
     {
       "year": "2023",
-      "overallIndex": "421",
-      "pikeIndex": "Streams No Drums",
-      "title": "29:52",
-      "length": ""
+      "pikeIndex": "421",
+      "title": "Streams No Drums",
+      "length": "29:52"
     },
     {
       "year": "2023",
-      "overallIndex": "422",
-      "pikeIndex": "Waters of the Unconcious",
-      "title": "30:18",
-      "length": ""
+      "pikeIndex": "422",
+      "title": "Waters of the Unconcious",
+      "length": "30:18"
     },
     {
       "year": "2023",
-      "overallIndex": "423",
-      "pikeIndex": "Lantern of Wide Waters",
-      "title": "29:56",
-      "length": "February 3 (download edition)"
+      "pikeIndex": "423",
+      "title": "Lantern of Wide Waters",
+      "length": "29:56"
     },
     {
       "year": "2023",
-      "overallIndex": "424",
-      "pikeIndex": "Hourglass of Visions",
-      "title": "30:27",
-      "length": "February 4 (download edition)"
+      "pikeIndex": "424",
+      "title": "Hourglass of Visions",
+      "length": "30:27"
     },
     {
       "year": "2023",
-      "overallIndex": "425",
-      "pikeIndex": "Metamorphosis",
-      "title": "29:25",
-      "length": "February 10 (download edition)"
+      "pikeIndex": "425",
+      "title": "Metamorphosis",
+      "length": "29:25"
     },
     {
       "year": "2023",
-      "overallIndex": "426",
-      "pikeIndex": "Sideways Ocean Roller Coaster",
-      "title": "18:37",
-      "length": ""
+      "pikeIndex": "426",
+      "title": "Sideways Ocean Roller Coaster",
+      "length": "18:37"
     },
     {
       "year": "2023",
-      "overallIndex": "427",
-      "pikeIndex": "The Waves Are Born",
-      "title": "30:05",
-      "length": ""
+      "pikeIndex": "427",
+      "title": "The Waves Are Born",
+      "length": "30:05"
     },
     {
       "year": "2023",
-      "overallIndex": "432",
-      "pikeIndex": "Sacred Lantern",
-      "title": "30:26",
-      "length": ""
+      "pikeIndex": "432",
+      "title": "Sacred Lantern",
+      "length": "30:26"
     },
     {
       "year": "2023",
-      "overallIndex": "433",
-      "pikeIndex": "Mercury Hallucinations",
-      "title": "30:12",
-      "length": ""
+      "pikeIndex": "433",
+      "title": "Mercury Hallucinations",
+      "length": "30:12"
     },
     {
       "year": "2023",
-      "overallIndex": "450",
-      "pikeIndex": "Divine Spark",
-      "title": "30:19",
-      "length": "February 25 (download edition)"
+      "pikeIndex": "450",
+      "title": "Divine Spark",
+      "length": "30:19"
     },
     {
       "year": "2023",
-      "overallIndex": "465",
-      "pikeIndex": "Rain Dear",
-      "title": "14:34",
-      "length": "March 8 (download edition)"
+      "pikeIndex": "465",
+      "title": "Rain Dear",
+      "length": "14:34"
     },
     {
       "year": "2023",
-      "overallIndex": "466",
-      "pikeIndex": "Bubbles of Mercury",
-      "title": "30:26",
-      "length": ""
+      "pikeIndex": "466",
+      "title": "Bubbles of Mercury",
+      "length": "30:26"
     },
     {
       "year": "2023",
-      "overallIndex": "467",
-      "pikeIndex": "Roller Coaster School",
-      "title": "32:46",
-      "length": ""
+      "pikeIndex": "467",
+      "title": "Roller Coaster School",
+      "length": "32:46"
     },
     {
       "year": "2023",
-      "overallIndex": "477",
-      "pikeIndex": "Dancing Soul",
-      "title": "27:59",
-      "length": "March 18 (download edition)"
+      "pikeIndex": "477",
+      "title": "Dancing Soul",
+      "length": "27:59"
     },
     {
       "year": "2023",
-      "overallIndex": "488",
-      "pikeIndex": "Lunar Tree (featuring Netlag)",
-      "title": "37:22",
-      "length": "March 28 (download edition)"
+      "pikeIndex": "488",
+      "title": "Lunar Tree (featuring Netlag)",
+      "length": "37:22"
     },
     {
       "year": "2023",
-      "overallIndex": "489",
-      "pikeIndex": "The Winding of Tears (featuring Netlag)",
-      "title": "28:09",
-      "length": ""
+      "pikeIndex": "489",
+      "title": "The Winding of Tears (featuring Netlag)",
+      "length": "28:09"
     },
     {
       "year": "2023",
-      "overallIndex": "490",
-      "pikeIndex": "Crossing the Cosmos (featuring Netlag)",
-      "title": "32:35",
-      "length": "March 30 (download edition)"
+      "pikeIndex": "490",
+      "title": "Crossing the Cosmos (featuring Netlag)",
+      "length": "32:35"
     },
     {
       "year": "2023",
-      "overallIndex": "495",
-      "pikeIndex": "Just Looking for a Friend",
-      "title": "30:10",
-      "length": "April 2 (download edition)"
+      "pikeIndex": "495",
+      "title": "Just Looking for a Friend",
+      "length": "30:10"
     },
     {
       "year": "2023",
-      "overallIndex": "496",
-      "pikeIndex": "Smile That Glows the Sky’s Pavillion",
-      "title": "30:29",
-      "length": "April 5 (download edition)"
+      "pikeIndex": "496",
+      "title": "Smile That Glows the Sky’s Pavillion",
+      "length": "30:29"
     },
     {
       "year": "2023",
-      "overallIndex": "497",
-      "pikeIndex": "Maps to Innerworlds",
-      "title": "24:18",
-      "length": ""
+      "pikeIndex": "497",
+      "title": "Maps to Innerworlds",
+      "length": "24:18"
     },
     {
       "year": "2023",
-      "overallIndex": "498",
-      "pikeIndex": "Medicine Sea",
-      "title": "29:43",
-      "length": ""
+      "pikeIndex": "498",
+      "title": "Medicine Sea",
+      "length": "29:43"
     },
     {
       "year": "2023",
-      "overallIndex": "499",
-      "pikeIndex": "The Attic That Dripped Blood",
-      "title": "30:00",
-      "length": ""
+      "pikeIndex": "499",
+      "title": "The Attic That Dripped Blood",
+      "length": "30:00"
     },
     {
       "year": "2023",
-      "overallIndex": "500",
-      "pikeIndex": "500 Alchemical Experiments",
-      "title": "34:16",
-      "length": ""
+      "pikeIndex": "500",
+      "title": "500 Alchemical Experiments",
+      "length": "34:16"
     },
     {
       "year": "2023",
-      "overallIndex": "501",
-      "pikeIndex": "Inner Rainbows",
-      "title": "30:27",
-      "length": "April 22 (download edition)"
+      "pikeIndex": "501",
+      "title": "Inner Rainbows",
+      "length": "30:27"
     },
     {
       "year": "2023",
-      "overallIndex": "502",
-      "pikeIndex": "Jeweled Web",
-      "title": "29:28",
-      "length": ""
+      "pikeIndex": "502",
+      "title": "Jeweled Web",
+      "length": "29:28"
     },
     {
       "year": "2023",
-      "overallIndex": "503",
-      "pikeIndex": "Of the Mountains and Seas",
-      "title": "31:06",
-      "length": ""
+      "pikeIndex": "503",
+      "title": "Of the Mountains and Seas",
+      "length": "31:06"
     },
     {
       "year": "2023",
-      "overallIndex": "504",
-      "pikeIndex": "Sky Writing",
-      "title": "30:43",
-      "length": "April 28 (download edition)"
+      "pikeIndex": "504",
+      "title": "Sky Writing",
+      "length": "30:43"
     },
     {
       "year": "2023",
-      "overallIndex": "505",
-      "pikeIndex": "Dances of the Sacred",
-      "title": "31:43",
-      "length": "April 30 (download edition)"
+      "pikeIndex": "505",
+      "title": "Dances of the Sacred",
+      "length": "31:43"
     },
     {
       "year": "2023",
-      "overallIndex": "506",
-      "pikeIndex": "Inner Stream",
-      "title": "28:51",
-      "length": "May 4 (download edition)"
+      "pikeIndex": "506",
+      "title": "Inner Stream",
+      "length": "28:51"
     },
     {
       "year": "2023",
-      "overallIndex": "507",
-      "pikeIndex": "Behind The Rain",
-      "title": "30:25",
-      "length": ""
+      "pikeIndex": "507",
+      "title": "Behind The Rain",
+      "length": "30:25"
     },
     {
       "year": "2023",
-      "overallIndex": "508",
-      "pikeIndex": "May The 4th Be With You",
-      "title": "25:28",
-      "length": ""
+      "pikeIndex": "508",
+      "title": "May The 4th Be With You",
+      "length": "25:28"
     },
     {
       "year": "2023",
-      "overallIndex": "509",
-      "pikeIndex": "Someday",
-      "title": "32:42",
-      "length": "May 5 (download edition)"
+      "pikeIndex": "509",
+      "title": "Someday",
+      "length": "32:42"
     },
     {
       "year": "2023",
-      "overallIndex": "510",
-      "pikeIndex": "Smelting of Ores",
-      "title": "30:12",
-      "length": ""
+      "pikeIndex": "510",
+      "title": "Smelting of Ores",
+      "length": "30:12"
     },
     {
       "year": "2023",
-      "overallIndex": "511",
-      "pikeIndex": "Yellowcrest",
-      "title": "28:11",
-      "length": ""
+      "pikeIndex": "511",
+      "title": "Yellowcrest",
+      "length": "28:11"
     },
     {
       "year": "2023",
-      "overallIndex": "512",
-      "pikeIndex": "Neuro Transmitter",
-      "title": "30:51",
-      "length": ""
+      "pikeIndex": "512",
+      "title": "Neuro Transmitter",
+      "length": "30:51"
     },
     {
       "year": "2023",
-      "overallIndex": "514",
-      "pikeIndex": "Arrival in Tokyo",
-      "title": "30:49",
-      "length": "May 17 (download edition)"
+      "pikeIndex": "514",
+      "title": "Arrival in Tokyo",
+      "length": "30:49"
     },
     {
       "year": "2023",
-      "overallIndex": "515",
-      "pikeIndex": "Turquoise Trail",
-      "title": "30:30",
-      "length": ""
+      "pikeIndex": "515",
+      "title": "Turquoise Trail",
+      "length": "30:30"
     },
     {
       "year": "2023",
-      "overallIndex": "516",
-      "pikeIndex": "Whale Song",
-      "title": "28:18",
-      "length": ""
+      "pikeIndex": "516",
+      "title": "Whale Song",
+      "length": "28:18"
     },
     {
       "year": "2023",
-      "overallIndex": "517",
-      "pikeIndex": "The Tear That Held an Ocean",
-      "title": "29:05",
-      "length": "June 1 (download edition)"
+      "pikeIndex": "517",
+      "title": "The Tear That Held an Ocean",
+      "length": "29:05"
     },
     {
       "year": "2023",
-      "overallIndex": "518",
-      "pikeIndex": "Mirror Streams",
-      "title": "28:36",
-      "length": ""
+      "pikeIndex": "518",
+      "title": "Mirror Streams",
+      "length": "28:36"
     },
     {
       "year": "2023",
-      "overallIndex": "519",
-      "pikeIndex": "Inside",
-      "title": "29:43",
-      "length": ""
+      "pikeIndex": "519",
+      "title": "Inside",
+      "length": "29:43"
     },
     {
       "year": "2023",
-      "overallIndex": "520",
-      "pikeIndex": "Droid Decal",
-      "title": "27:09",
-      "length": ""
+      "pikeIndex": "520",
+      "title": "Droid Decal",
+      "length": "27:09"
     },
     {
       "year": "2023",
-      "overallIndex": "521",
-      "pikeIndex": "Passage",
-      "title": "25:04",
-      "length": "June 6 (download edition)"
+      "pikeIndex": "521",
+      "title": "Passage",
+      "length": "25:04"
     },
     {
       "year": "2023",
-      "overallIndex": "522",
-      "pikeIndex": "Abyss Furnace",
-      "title": "31:17",
-      "length": ""
+      "pikeIndex": "522",
+      "title": "Abyss Furnace",
+      "length": "31:17"
     },
     {
       "year": "2023",
-      "overallIndex": "523",
-      "pikeIndex": "Sparkling Stream",
-      "title": "29:32",
-      "length": ""
+      "pikeIndex": "523",
+      "title": "Sparkling Stream",
+      "length": "29:32"
     },
     {
       "year": "2023",
-      "overallIndex": "524",
-      "pikeIndex": "Humbug",
-      "title": "32:05",
-      "length": ""
+      "pikeIndex": "524",
+      "title": "Humbug",
+      "length": "32:05"
     },
     {
       "year": "2023",
-      "overallIndex": "526",
-      "pikeIndex": "Frequencies of Caring",
-      "title": "31:12",
-      "length": "June 9 (download edition)"
+      "pikeIndex": "526",
+      "title": "Frequencies of Caring",
+      "length": "31:12"
     },
     {
       "year": "2023",
-      "overallIndex": "527",
-      "pikeIndex": "Stairways of Planets",
-      "title": "26:57",
-      "length": ""
+      "pikeIndex": "527",
+      "title": "Stairways of Planets",
+      "length": "26:57"
     },
     {
       "year": "2023",
-      "overallIndex": "528",
-      "pikeIndex": "A Moment to Hold",
-      "title": "27:26",
-      "length": "June 14 (download edition)"
+      "pikeIndex": "528",
+      "title": "A Moment to Hold",
+      "length": "27:26"
     },
     {
       "year": "2023",
-      "overallIndex": "529",
-      "pikeIndex": "Carriage",
-      "title": "29:39",
-      "length": ""
+      "pikeIndex": "529",
+      "title": "Carriage",
+      "length": "29:39"
     },
     {
       "year": "2023",
-      "overallIndex": "530",
-      "pikeIndex": "Rainbow Fountain",
-      "title": "29:34",
-      "length": ""
+      "pikeIndex": "530",
+      "title": "Rainbow Fountain",
+      "length": "29:34"
     },
     {
       "year": "2023",
-      "overallIndex": "531",
-      "pikeIndex": "The Enigma of the Chariot",
-      "title": "30:57",
-      "length": "June 29 (download edition)"
+      "pikeIndex": "531",
+      "title": "The Enigma of the Chariot",
+      "length": "30:57"
     },
     {
       "year": "2023",
-      "overallIndex": "532",
-      "pikeIndex": "Held Reflection",
-      "title": "31:11",
-      "length": "June 30 (download edition)"
+      "pikeIndex": "532",
+      "title": "Held Reflection",
+      "length": "31:11"
     },
     {
       "year": "2023",
-      "overallIndex": "533",
-      "pikeIndex": "Many Moons Ago and Now",
-      "title": "28:32",
-      "length": ""
+      "pikeIndex": "533",
+      "title": "Many Moons Ago and Now",
+      "length": "28:32"
     },
     {
       "year": "2023",
-      "overallIndex": "534",
-      "pikeIndex": "The Coloring of Metals",
-      "title": "29:49",
-      "length": ""
+      "pikeIndex": "534",
+      "title": "The Coloring of Metals",
+      "length": "29:49"
     },
     {
       "year": "2023",
-      "overallIndex": "535",
-      "pikeIndex": "Storm and Stillness",
-      "title": "27:51",
-      "length": ""
+      "pikeIndex": "535",
+      "title": "Storm and Stillness",
+      "length": "27:51"
     },
     {
       "year": "2023",
-      "overallIndex": "536",
-      "pikeIndex": "Where the Gentle Breeze Plays",
-      "title": "28:57",
-      "length": ""
+      "pikeIndex": "536",
+      "title": "Where the Gentle Breeze Plays",
+      "length": "28:57"
     },
     {
       "year": "2023",
-      "overallIndex": "537",
-      "pikeIndex": "Dream Meadow",
-      "title": "30:57",
-      "length": "July 12 (download edition)"
+      "pikeIndex": "537",
+      "title": "Dream Meadow",
+      "length": "30:57"
     },
     {
       "year": "2023",
-      "overallIndex": "538",
-      "pikeIndex": "Wellspring",
-      "title": "27:22",
-      "length": "July 13 (download edition)"
+      "pikeIndex": "538",
+      "title": "Wellspring",
+      "length": "27:22"
     },
     {
       "year": "2023",
-      "overallIndex": "539",
-      "pikeIndex": "Treehouse Backwards in Time",
-      "title": "30:26",
-      "length": "July 14 (download edition)"
+      "pikeIndex": "539",
+      "title": "Treehouse Backwards in Time",
+      "length": "30:26"
     },
     {
       "year": "2023",
-      "overallIndex": "540",
-      "pikeIndex": "Communicating Through the Stars",
-      "title": "35:01",
-      "length": ""
+      "pikeIndex": "540",
+      "title": "Communicating Through the Stars",
+      "length": "35:01"
     },
     {
       "year": "2023",
-      "overallIndex": "541",
-      "pikeIndex": "In the Sky",
-      "title": "28:58",
-      "length": ""
+      "pikeIndex": "541",
+      "title": "In the Sky",
+      "length": "28:58"
     },
     {
       "year": "2023",
-      "overallIndex": "542",
-      "pikeIndex": "Lanterns of Nara",
-      "title": "28:59",
-      "length": ""
+      "pikeIndex": "542",
+      "title": "Lanterns of Nara",
+      "length": "28:59"
     },
     {
       "year": "2023",
-      "overallIndex": "543",
-      "pikeIndex": "The Mystery of Patience Worth",
-      "title": "30:48",
-      "length": "July 28 (download edition)"
+      "pikeIndex": "543",
+      "title": "The Mystery of Patience Worth",
+      "length": "30:48"
     },
     {
       "year": "2023",
-      "overallIndex": "544",
-      "pikeIndex": "Nature Reflects",
-      "title": "27:31",
-      "length": "August 1 (download edition)"
+      "pikeIndex": "544",
+      "title": "Nature Reflects",
+      "length": "27:31"
     },
     {
       "year": "2023",
-      "overallIndex": "545",
-      "pikeIndex": "Kicking to the Moon",
-      "title": "27:02",
-      "length": ""
+      "pikeIndex": "545",
+      "title": "Kicking to the Moon",
+      "length": "27:02"
     },
     {
       "year": "2023",
-      "overallIndex": "546",
-      "pikeIndex": "Spirals of the Unconscious",
-      "title": "33:47",
-      "length": ""
+      "pikeIndex": "546",
+      "title": "Spirals of the Unconscious",
+      "length": "33:47"
     },
     {
       "year": "2023",
-      "overallIndex": "547",
-      "pikeIndex": "Divine",
-      "title": "34:25",
-      "length": ""
+      "pikeIndex": "547",
+      "title": "Divine",
+      "length": "34:25"
     },
     {
       "year": "2023",
-      "overallIndex": "548",
-      "pikeIndex": "Anchor in the Storm",
-      "title": "28:40",
-      "length": "August 2 (download edition)"
+      "pikeIndex": "548",
+      "title": "Anchor in the Storm",
+      "length": "28:40"
     },
     {
       "year": "2023",
-      "overallIndex": "549",
-      "pikeIndex": "Water Altar",
-      "title": "29:42",
-      "length": "August 4 (download edition)"
+      "pikeIndex": "549",
+      "title": "Water Altar",
+      "length": "29:42"
     },
     {
       "year": "2023",
-      "overallIndex": "550",
-      "pikeIndex": "Where Ghosts Vanish Like Mists",
-      "title": "30:43",
-      "length": ""
+      "pikeIndex": "550",
+      "title": "Where Ghosts Vanish Like Mists",
+      "length": "30:43"
     },
     {
       "year": "2023",
-      "overallIndex": "551",
-      "pikeIndex": "Sparks Take Flight",
-      "title": "28:42",
-      "length": ""
+      "pikeIndex": "551",
+      "title": "Sparks Take Flight",
+      "length": "28:42"
     },
     {
       "year": "2023",
-      "overallIndex": "552",
-      "pikeIndex": "The Philosopher's Water is Fire",
-      "title": "29:38",
-      "length": ""
+      "pikeIndex": "552",
+      "title": "The Philosopher's Water is Fire",
+      "length": "29:38"
     },
     {
       "year": "2023",
-      "overallIndex": "553",
-      "pikeIndex": "Fountain Pen Fun",
-      "title": "30:00",
-      "length": ""
+      "pikeIndex": "553",
+      "title": "Fountain Pen Fun",
+      "length": "30:00"
     },
     {
       "year": "2023",
-      "overallIndex": "554",
-      "pikeIndex": "Mask of Warka",
-      "title": "27:16",
-      "length": ""
+      "pikeIndex": "554",
+      "title": "Mask of Warka",
+      "length": "27:16"
     },
     {
       "year": "2023",
-      "overallIndex": "555",
-      "pikeIndex": "Echoes in the Mountain",
-      "title": "32:49",
-      "length": ""
+      "pikeIndex": "555",
+      "title": "Echoes in the Mountain",
+      "length": "32:49"
     },
     {
       "year": "2023",
-      "overallIndex": "556",
-      "pikeIndex": "Sacred Well",
-      "title": "29:07",
-      "length": ""
+      "pikeIndex": "556",
+      "title": "Sacred Well",
+      "length": "29:07"
     },
     {
       "year": "2023",
-      "overallIndex": "557",
-      "pikeIndex": "Mercury Alive",
-      "title": "29:35",
-      "length": ""
+      "pikeIndex": "557",
+      "title": "Mercury Alive",
+      "length": "29:35"
     },
     {
       "year": "2023",
-      "overallIndex": "558",
-      "pikeIndex": "Waves on the Sand",
-      "title": "27:21",
-      "length": ""
+      "pikeIndex": "558",
+      "title": "Waves on the Sand",
+      "length": "27:21"
     },
     {
       "year": "2023",
-      "overallIndex": "559",
-      "pikeIndex": "Voices from the Abyss",
-      "title": "30:48",
-      "length": "August 10 (download edition)"
+      "pikeIndex": "559",
+      "title": "Voices from the Abyss",
+      "length": "30:48"
     },
     {
       "year": "2023",
-      "overallIndex": "560",
-      "pikeIndex": "Emeryville Mudflats",
-      "title": "32:42",
-      "length": ""
+      "pikeIndex": "560",
+      "title": "Emeryville Mudflats",
+      "length": "32:42"
     },
     {
       "year": "2023",
-      "overallIndex": "561",
-      "pikeIndex": "Moon Water",
-      "title": "30:45",
-      "length": ""
+      "pikeIndex": "561",
+      "title": "Moon Water",
+      "length": "30:45"
     },
     {
       "year": "2023",
-      "overallIndex": "562",
-      "pikeIndex": "Blue Dunes",
-      "title": "28:33",
-      "length": "August 12 (download edition)"
+      "pikeIndex": "562",
+      "title": "Blue Dunes",
+      "length": "28:33"
     },
     {
       "year": "2023",
-      "overallIndex": "563",
-      "pikeIndex": "Journaling to Bliss",
-      "title": "27:14",
-      "length": ""
+      "pikeIndex": "563",
+      "title": "Journaling to Bliss",
+      "length": "27:14"
     },
     {
       "year": "2023",
-      "overallIndex": "564",
-      "pikeIndex": "Figures Against the Sky",
-      "title": "29:07",
-      "length": "August 16 (download edition)"
+      "pikeIndex": "564",
+      "title": "Figures Against the Sky",
+      "length": "29:07"
     },
     {
       "year": "2023",
-      "overallIndex": "565",
-      "pikeIndex": "Open Air Museum",
-      "title": "26:11",
-      "length": ""
+      "pikeIndex": "565",
+      "title": "Open Air Museum",
+      "length": "26:11"
     },
     {
       "year": "2023",
-      "overallIndex": "566",
-      "pikeIndex": "Sculptures by the Bay",
-      "title": "28:18",
-      "length": "August 17 (download edition)"
+      "pikeIndex": "566",
+      "title": "Sculptures by the Bay",
+      "length": "28:18"
     },
     {
       "year": "2023",
-      "overallIndex": "567",
-      "pikeIndex": "Tower of Gratitude",
-      "title": "28:36",
-      "length": ""
+      "pikeIndex": "567",
+      "title": "Tower of Gratitude",
+      "length": "28:36"
     },
     {
       "year": "2023",
-      "overallIndex": "568",
-      "pikeIndex": "Millwind",
-      "title": "30:43",
-      "length": ""
+      "pikeIndex": "568",
+      "title": "Millwind",
+      "length": "30:43"
     },
     {
       "year": "2023",
-      "overallIndex": "569",
-      "pikeIndex": "Stirring the Imaginations",
-      "title": "30:01",
-      "length": ""
+      "pikeIndex": "569",
+      "title": "Stirring the Imaginations",
+      "length": "30:01"
     },
     {
       "year": "2023",
-      "overallIndex": "570",
-      "pikeIndex": "Sculpture Spirits Remain",
-      "title": "32:34",
-      "length": "August 18 (download edition)"
+      "pikeIndex": "570",
+      "title": "Sculpture Spirits Remain",
+      "length": "32:34"
     },
     {
       "year": "2023",
-      "overallIndex": "591",
-      "pikeIndex": "Sprinkle Tree Glow",
-      "title": "26:19",
-      "length": "October 20 (download edition)"
+      "pikeIndex": "591",
+      "title": "Sprinkle Tree Glow",
+      "length": "26:19"
     },
     {
       "year": "2023",
-      "overallIndex": "592",
-      "pikeIndex": "Rays of the Magic Lantern",
-      "title": "27:09",
-      "length": "October 31 (download edition)"
+      "pikeIndex": "592",
+      "title": "Rays of the Magic Lantern",
+      "length": "27:09"
     },
     {
       "year": "2023",
-      "overallIndex": "599",
-      "pikeIndex": "Can a Tree Feel Pain",
-      "title": "29:19",
-      "length": "December 8 (download edition)"
+      "pikeIndex": "599",
+      "title": "Can a Tree Feel Pain",
+      "length": "29:19"
     },
     {
       "year": "2023",
-      "overallIndex": "600",
-      "pikeIndex": "The Gray Wind of Autumn",
-      "title": "28:31",
-      "length": ""
+      "pikeIndex": "600",
+      "title": "The Gray Wind of Autumn",
+      "length": "28:31"
     },
     {
       "year": "2023",
-      "overallIndex": "601",
-      "pikeIndex": "The Disembodied and Embodied at the Same Time Cafe",
-      "title": "29:26",
-      "length": ""
+      "pikeIndex": "601",
+      "title": "The Disembodied and Embodied at the Same Time Cafe",
+      "length": "29:26"
     },
     {
       "year": "2023",
-      "overallIndex": "602",
-      "pikeIndex": "Living Lava",
-      "title": "27:49",
-      "length": ""
+      "pikeIndex": "602",
+      "title": "Living Lava",
+      "length": "27:49"
     },
     {
       "year": "2023",
-      "overallIndex": "603",
-      "pikeIndex": "That Which Enchants Will Protect",
-      "title": "28:10",
-      "length": ""
+      "pikeIndex": "603",
+      "title": "That Which Enchants Will Protect",
+      "length": "28:10"
     },
     {
       "year": "2023",
-      "overallIndex": "604",
-      "pikeIndex": "Feeling the Sadness of What Holds One Back",
-      "title": "28:57",
-      "length": ""
+      "pikeIndex": "604",
+      "title": "Feeling the Sadness of What Holds One Back",
+      "length": "28:57"
     },
     {
       "year": "2023",
-      "overallIndex": "605",
-      "pikeIndex": "Holiday Lights",
-      "title": "26:59",
-      "length": "December 13 (download edition)"
+      "pikeIndex": "605",
+      "title": "Holiday Lights",
+      "length": "26:59"
     },
     {
       "year": "2023",
-      "overallIndex": "606",
-      "pikeIndex": "Stranger in a Strange Land",
-      "title": "32:33",
-      "length": "December 23 (download edition)"
+      "pikeIndex": "606",
+      "title": "Stranger in a Strange Land",
+      "length": "32:33"
     },
     {
       "year": "2023",
-      "overallIndex": "607",
-      "pikeIndex": "Shores of the Subconcious",
-      "title": "29:00",
-      "length": "December 26 (download edition)"
+      "pikeIndex": "607",
+      "title": "Shores of the Subconcious",
+      "length": "29:00"
     },
     {
       "year": "2023",
-      "overallIndex": "608",
-      "pikeIndex": "Sky Bridge",
-      "title": "29:31",
-      "length": "December 27 (download edition)"
+      "pikeIndex": "608",
+      "title": "Sky Bridge",
+      "length": "29:31"
     },
     {
       "year": "2023",
-      "overallIndex": "609",
-      "pikeIndex": "Book of Wonders",
-      "title": "29:29",
-      "length": ""
+      "pikeIndex": "609",
+      "title": "Book of Wonders",
+      "length": "29:29"
     },
     {
       "year": "2023",
-      "overallIndex": "610",
-      "pikeIndex": "Lunar Realms",
-      "title": "28:25",
-      "length": ""
+      "pikeIndex": "610",
+      "title": "Lunar Realms",
+      "length": "28:25"
     },
     {
       "year": "2023",
-      "overallIndex": "611",
-      "pikeIndex": "Underwater Observatory",
-      "title": "28:40",
-      "length": ""
+      "pikeIndex": "611",
+      "title": "Underwater Observatory",
+      "length": "28:40"
     },
     {
       "year": "2023",
-      "overallIndex": "612",
-      "pikeIndex": "Of the Rays",
-      "title": "29:06",
-      "length": ""
+      "pikeIndex": "612",
+      "title": "Of the Rays",
+      "length": "29:06"
     },
     {
       "year": "2023",
-      "overallIndex": "613",
-      "pikeIndex": "The Universe is Your Friend",
-      "title": "27:33",
-      "length": "December 28 (download edition)"
+      "pikeIndex": "613",
+      "title": "The Universe is Your Friend",
+      "length": "27:33"
     },
     {
       "year": "2023",
-      "overallIndex": "614",
-      "pikeIndex": "Keeper of Solitude",
-      "title": "28:29",
-      "length": ""
+      "pikeIndex": "614",
+      "title": "Keeper of Solitude",
+      "length": "28:29"
     },
     {
       "year": "2023",
-      "overallIndex": "615",
-      "pikeIndex": "Metals Grow",
-      "title": "28:26",
-      "length": ""
+      "pikeIndex": "615",
+      "title": "Metals Grow",
+      "length": "28:26"
     },
     {
       "year": "2023",
-      "overallIndex": "616",
-      "pikeIndex": "Blossoming of Dreams",
-      "title": "28:52",
-      "length": ""
+      "pikeIndex": "616",
+      "title": "Blossoming of Dreams",
+      "length": "28:52"
     },
     {
       "year": "2023",
-      "overallIndex": "617",
-      "pikeIndex": "Flow Freely",
-      "title": "27:33",
-      "length": "December 29 (download edition)"
+      "pikeIndex": "617",
+      "title": "Flow Freely",
+      "length": "27:33"
     },
     {
       "year": "2024",
-      "overallIndex": "618",
-      "pikeIndex": "Fly on the Wings of a Flame",
-      "title": "27:36",
-      "length": "January 4 (download edition)"
+      "pikeIndex": "618",
+      "title": "Fly on the Wings of a Flame",
+      "length": "27:36"
     },
     {
       "year": "2024",
-      "overallIndex": "619",
-      "pikeIndex": "Deep Quiet",
-      "title": "29:33",
-      "length": ""
+      "pikeIndex": "619",
+      "title": "Deep Quiet",
+      "length": "29:33"
     },
     {
       "year": "2024",
-      "overallIndex": "620",
-      "pikeIndex": "Stairway to the Gramaphone Company",
-      "title": "28:12",
-      "length": ""
+      "pikeIndex": "620",
+      "title": "Stairway to the Gramaphone Company",
+      "length": "28:12"
     },
     {
       "year": "2024",
-      "overallIndex": "621",
-      "pikeIndex": "Lab Notes",
-      "title": "30:59",
-      "length": ""
+      "pikeIndex": "621",
+      "title": "Lab Notes",
+      "length": "30:59"
     },
     {
       "year": "2024",
-      "overallIndex": "622",
-      "pikeIndex": "Free the Spark of Light",
-      "title": "26:35",
-      "length": "January 6 (download edition)"
+      "pikeIndex": "622",
+      "title": "Free the Spark of Light",
+      "length": "26:35"
     },
     {
       "year": "2024",
-      "overallIndex": "623",
-      "pikeIndex": "Seeing the Sea Sideways",
-      "title": "27:19",
-      "length": ""
+      "pikeIndex": "623",
+      "title": "Seeing the Sea Sideways",
+      "length": "27:19"
     },
     {
       "year": "2024",
-      "overallIndex": "624",
-      "pikeIndex": "Architect of the Inner Garden",
-      "title": "29:11",
-      "length": ""
+      "pikeIndex": "624",
+      "title": "Architect of the Inner Garden",
+      "length": "29:11"
     },
     {
       "year": "2024",
-      "overallIndex": "625",
-      "pikeIndex": "Dissolve Ego",
-      "title": "28:35",
-      "length": ""
+      "pikeIndex": "625",
+      "title": "Dissolve Ego",
+      "length": "28:35"
     },
     {
       "year": "2024",
-      "overallIndex": "626",
-      "pikeIndex": "Sea of the Subconcious",
-      "title": "28:28",
-      "length": ""
+      "pikeIndex": "626",
+      "title": "Sea of the Subconcious",
+      "length": "28:28"
     },
     {
       "year": "2024",
-      "overallIndex": "627",
-      "pikeIndex": "Quieting the Thoughts that Don't Serve",
-      "title": "26:43",
-      "length": ""
+      "pikeIndex": "627",
+      "title": "Quieting the Thoughts that Don't Serve",
+      "length": "26:43"
     },
     {
       "year": "2024",
-      "overallIndex": "628",
-      "pikeIndex": "Echo Canyon",
-      "title": "26:23",
-      "length": ""
+      "pikeIndex": "628",
+      "title": "Echo Canyon",
+      "length": "26:23"
     },
     {
       "year": "2024",
-      "overallIndex": "629",
-      "pikeIndex": "The Waters",
-      "title": "28:05",
-      "length": ""
+      "pikeIndex": "629",
+      "title": "The Waters",
+      "length": "28:05"
     },
     {
       "year": "2024",
-      "overallIndex": "630",
-      "pikeIndex": "Home in the Sky",
-      "title": "27:52",
-      "length": ""
+      "pikeIndex": "630",
+      "title": "Home in the Sky",
+      "length": "27:52"
     },
     {
       "year": "2024",
-      "overallIndex": "631",
-      "pikeIndex": "Fugien Vibes",
-      "title": "29:54",
-      "length": ""
+      "pikeIndex": "631",
+      "title": "Fugien Vibes",
+      "length": "29:54"
     },
     {
       "year": "2024",
-      "overallIndex": "632",
-      "pikeIndex": "In Solitude Roam",
-      "title": "27:26",
-      "length": "January 27 (download edition)"
+      "pikeIndex": "632",
+      "title": "In Solitude Roam",
+      "length": "27:26"
     },
     {
       "year": "2024",
-      "overallIndex": "633",
-      "pikeIndex": "Through the Words Were Soft Whispers",
-      "title": "29:04",
-      "length": ""
+      "pikeIndex": "633",
+      "title": "Through the Words Were Soft Whispers",
+      "length": "29:04"
     },
     {
       "year": "2024",
-      "overallIndex": "634",
-      "pikeIndex": "Sea Above the Sky",
-      "title": "27:23",
-      "length": ""
+      "pikeIndex": "634",
+      "title": "Sea Above the Sky",
+      "length": "27:23"
     },
     {
       "year": "2024",
-      "overallIndex": "635",
-      "pikeIndex": "Atlantis",
-      "title": "27:38",
-      "length": "January 31 (download edition)"
+      "pikeIndex": "635",
+      "title": "Atlantis",
+      "length": "27:38"
     },
     {
       "year": "2024",
-      "overallIndex": "636",
-      "pikeIndex": "Joy in the Little Things",
-      "title": "18:31",
-      "length": ""
+      "pikeIndex": "636",
+      "title": "Joy in the Little Things",
+      "length": "18:31"
     },
     {
       "year": "2024",
-      "overallIndex": "637",
-      "pikeIndex": "Swirling Hexagon",
-      "title": "26:24",
-      "length": ""
+      "pikeIndex": "637",
+      "title": "Swirling Hexagon",
+      "length": "26:24"
     },
     {
       "year": "2024",
-      "overallIndex": "638",
-      "pikeIndex": "Molded by the Wheel (featuring Netlag)",
-      "title": "27:17",
-      "length": ""
+      "pikeIndex": "638",
+      "title": "Molded by the Wheel (featuring Netlag)",
+      "length": "27:17"
     },
     {
       "year": "2024",
-      "overallIndex": "639",
-      "pikeIndex": "Light Ships",
-      "title": "28:40",
-      "length": ""
+      "pikeIndex": "639",
+      "title": "Light Ships",
+      "length": "28:40"
     },
     {
       "year": "2024",
-      "overallIndex": "640",
-      "pikeIndex": "Journey to Atlantis",
-      "title": "26:40",
-      "length": ""
+      "pikeIndex": "640",
+      "title": "Journey to Atlantis",
+      "length": "26:40"
     },
     {
       "year": "2024",
-      "overallIndex": "641",
-      "pikeIndex": "Rooster Eats its Beak to Tame Itself",
-      "title": "29:06",
-      "length": "February 2 (download edition)"
+      "pikeIndex": "641",
+      "title": "Rooster Eats its Beak to Tame Itself",
+      "length": "29:06"
     },
     {
       "year": "2024",
-      "overallIndex": "642",
-      "pikeIndex": "Shell Caster",
-      "title": "17:40",
-      "length": "February 23 (download edition)"
+      "pikeIndex": "642",
+      "title": "Shell Caster",
+      "length": "17:40"
     },
     {
       "year": "2024",
-      "overallIndex": "643",
-      "pikeIndex": "Sparkling of Sand",
-      "title": "17:30",
-      "length": ""
+      "pikeIndex": "643",
+      "title": "Sparkling of Sand",
+      "length": "17:30"
     },
     {
       "year": "2024",
-      "overallIndex": "644",
-      "pikeIndex": "The Watery Realms",
-      "title": "21:37",
-      "length": ""
+      "pikeIndex": "644",
+      "title": "The Watery Realms",
+      "length": "21:37"
     },
     {
       "year": "2024",
-      "overallIndex": "645",
-      "pikeIndex": "Angels Awaken a Slumbering Alchemist",
-      "title": "20:14",
-      "length": "February 28 (download edition)"
+      "pikeIndex": "645",
+      "title": "Angels Awaken a Slumbering Alchemist",
+      "length": "20:14"
     },
     {
       "year": "2024",
-      "overallIndex": "646",
-      "pikeIndex": "Through the Veil of a Dream",
-      "title": "16:44",
-      "length": ""
+      "pikeIndex": "646",
+      "title": "Through the Veil of a Dream",
+      "length": "16:44"
     },
     {
       "year": "2024",
-      "overallIndex": "647",
-      "pikeIndex": "Schlavender Schlingschlot Schleven Schlimes",
-      "title": "20:04",
-      "length": ""
+      "pikeIndex": "647",
+      "title": "Schlavender Schlingschlot Schleven Schlimes",
+      "length": "20:04"
     },
     {
       "year": "2024",
-      "overallIndex": "648",
-      "pikeIndex": "Skywatching",
-      "title": "19:49",
-      "length": "March 1 (download edition)"
+      "pikeIndex": "648",
+      "title": "Skywatching",
+      "length": "19:49"
     },
     {
       "year": "2024",
-      "overallIndex": "649",
-      "pikeIndex": "River in the Sky",
-      "title": "18:47",
-      "length": ""
+      "pikeIndex": "649",
+      "title": "River in the Sky",
+      "length": "18:47"
     },
     {
       "year": "2024",
-      "overallIndex": "650",
-      "pikeIndex": "Sea Serpent",
-      "title": "18:06",
-      "length": ""
+      "pikeIndex": "650",
+      "title": "Sea Serpent",
+      "length": "18:06"
     },
     {
       "year": "2024",
-      "overallIndex": "651",
-      "pikeIndex": "Mists of Preantiquity",
-      "title": "18:40",
-      "length": ""
+      "pikeIndex": "651",
+      "title": "Mists of Preantiquity",
+      "length": "18:40"
     },
     {
       "year": "2024",
-      "overallIndex": "652",
-      "pikeIndex": "Polaris",
-      "title": "16:55",
-      "length": ""
+      "pikeIndex": "652",
+      "title": "Polaris",
+      "length": "16:55"
     },
     {
       "year": "2024",
-      "overallIndex": "653",
-      "pikeIndex": "Open Dream Doorways",
-      "title": "18:46",
-      "length": "March 9 (download edition)"
+      "pikeIndex": "653",
+      "title": "Open Dream Doorways",
+      "length": "18:46"
     },
     {
       "year": "2024",
-      "overallIndex": "654",
-      "pikeIndex": "The Wonders of Rain",
-      "title": "18:29",
-      "length": ""
+      "pikeIndex": "654",
+      "title": "The Wonders of Rain",
+      "length": "18:29"
     },
     {
       "year": "2024",
-      "overallIndex": "655",
-      "pikeIndex": "Echoes of Wings",
-      "title": "17:46",
-      "length": "March 10 (download edition)"
+      "pikeIndex": "655",
+      "title": "Echoes of Wings",
+      "length": "17:46"
     },
     {
       "year": "2024",
-      "overallIndex": "656",
-      "pikeIndex": "Corridors of Tears",
-      "title": "19:46",
-      "length": "March 27 (download edition)"
+      "pikeIndex": "656",
+      "title": "Corridors of Tears",
+      "length": "19:46"
     },
     {
       "year": "2024",
-      "overallIndex": "657",
-      "pikeIndex": "Stairway of Marble",
-      "title": "19:39",
-      "length": "March 29 (download edition)"
+      "pikeIndex": "657",
+      "title": "Stairway of Marble",
+      "length": "19:39"
     },
     {
       "year": "2024",
-      "overallIndex": "658",
-      "pikeIndex": "The Fire of Red Sand",
-      "title": "18:24",
-      "length": ""
+      "pikeIndex": "658",
+      "title": "The Fire of Red Sand",
+      "length": "18:24"
     },
     {
       "year": "2024",
-      "overallIndex": "659",
-      "pikeIndex": "Days Across the Plains",
-      "title": "20:16",
-      "length": ""
+      "pikeIndex": "659",
+      "title": "Days Across the Plains",
+      "length": "20:16"
     },
     {
       "year": "2024",
-      "overallIndex": "660",
-      "pikeIndex": "Unity",
-      "title": "18:38",
-      "length": "April 2 (download edition)"
+      "pikeIndex": "660",
+      "title": "Unity",
+      "length": "18:38"
     },
     {
       "year": "2024",
-      "overallIndex": "661",
-      "pikeIndex": "Watching the Rain through the Stained Glass",
-      "title": "18:26",
-      "length": "July 16 (download edition)"
+      "pikeIndex": "661",
+      "title": "Watching the Rain through the Stained Glass",
+      "length": "18:26"
     },
     {
       "year": "2024",
-      "overallIndex": "662",
-      "pikeIndex": "Miracles are Supposed to Happen",
-      "title": "20:28",
-      "length": ""
+      "pikeIndex": "662",
+      "title": "Miracles are Supposed to Happen",
+      "length": "20:28"
     },
     {
       "year": "2025",
-      "overallIndex": "663",
-      "pikeIndex": "Open Yourself to Wonder",
-      "title": "20:07",
-      "length": "January 16 (download edition)"
+      "pikeIndex": "663",
+      "title": "Open Yourself to Wonder",
+      "length": "20:07"
     },
     {
       "year": "2025",
-      "overallIndex": "664",
-      "pikeIndex": "Crinkle Bag of Goodies",
-      "title": "17:51",
-      "length": "January 25 (download edition)"
+      "pikeIndex": "664",
+      "title": "Crinkle Bag of Goodies",
+      "length": "17:51"
     },
     {
       "year": "2025",
-      "overallIndex": "665",
-      "pikeIndex": "Skyroom",
-      "title": "18:34",
-      "length": "February 3 (download edition)"
+      "pikeIndex": "665",
+      "title": "Skyroom",
+      "length": "18:34"
     },
     {
       "year": "2025",
-      "overallIndex": "666",
-      "pikeIndex": "Whispering Meadow",
-      "title": "20:54",
-      "length": ""
+      "pikeIndex": "666",
+      "title": "Whispering Meadow",
+      "length": "20:54"
     },
     {
       "year": "2025",
-      "overallIndex": "667",
-      "pikeIndex": "Hilltop Sanctuary",
-      "title": "17:54",
-      "length": ""
+      "pikeIndex": "667",
+      "title": "Hilltop Sanctuary",
+      "length": "17:54"
     },
     {
       "year": "2025",
-      "overallIndex": "668",
-      "pikeIndex": "Whispering Well",
-      "title": "18:36",
-      "length": ""
+      "pikeIndex": "668",
+      "title": "Whispering Well",
+      "length": "18:36"
     },
     {
       "year": "2025",
-      "overallIndex": "669",
-      "pikeIndex": "The Mines of Sigismund Fugger",
-      "title": "21:39",
-      "length": "February 13 (download edition)"
+      "pikeIndex": "669",
+      "title": "The Mines of Sigismund Fugger",
+      "length": "21:39"
     },
     {
       "year": "2025",
-      "overallIndex": "670",
-      "pikeIndex": "Signaling Across Time",
-      "title": "18:18",
-      "length": ""
+      "pikeIndex": "670",
+      "title": "Signaling Across Time",
+      "length": "18:18"
     },
     {
       "year": "2025",
-      "overallIndex": "671",
-      "pikeIndex": "When the Wind Blew through Your Branches",
-      "title": "20:39",
-      "length": ""
+      "pikeIndex": "671",
+      "title": "When the Wind Blew through Your Branches",
+      "length": "20:39"
     },
     {
       "year": "2025",
-      "overallIndex": "672",
-      "pikeIndex": "Cloaked in Wonder",
-      "title": "21:42",
-      "length": "June 26 (download edition)"
+      "pikeIndex": "672",
+      "title": "Cloaked in Wonder",
+      "length": "21:42"
     },
     {
       "year": "2025",
-      "overallIndex": "673",
-      "pikeIndex": "The Glow of the Cave Gave Them Their Light",
-      "title": "20:41",
-      "length": "July 1 (download edition)"
+      "pikeIndex": "673",
+      "title": "The Glow of the Cave Gave Them Their Light",
+      "length": "20:41"
     },
     {
       "year": "2025",
-      "overallIndex": "674",
-      "pikeIndex": "Seekers are Never Lost",
-      "title": "18:37",
-      "length": ""
+      "pikeIndex": "674",
+      "title": "Seekers are Never Lost",
+      "length": "18:37"
     },
     {
       "year": "2025",
-      "overallIndex": "675",
-      "pikeIndex": "The Tin Plague",
-      "title": "21:25",
-      "length": "August 20 (download edition)"
+      "pikeIndex": "675",
+      "title": "The Tin Plague",
+      "length": "21:25"
     },
     {
       "year": "2025",
-      "overallIndex": "676",
-      "pikeIndex": "Mountain Gate",
-      "title": "24:45",
-      "length": "August 21 (download edition)"
+      "pikeIndex": "676",
+      "title": "Mountain Gate",
+      "length": "24:45"
     },
     {
       "year": "2025",
-      "overallIndex": "677",
-      "pikeIndex": "Twisted in Cosmos Cries",
-      "title": "18:09",
-      "length": "August 29 (download edition)"
+      "pikeIndex": "677",
+      "title": "Twisted in Cosmos Cries",
+      "length": "18:09"
     },
     {
       "year": "2025",
-      "overallIndex": "679",
-      "pikeIndex": "Mist of the Waterfall",
-      "title": "17:56",
-      "length": "September 5 (download edition)"
+      "pikeIndex": "679",
+      "title": "Mist of the Waterfall",
+      "length": "17:56"
     },
     {
       "year": "2025",
-      "overallIndex": "680",
-      "pikeIndex": "Ripley Scroll",
-      "title": "17:17",
-      "length": "September 9 (download edition)"
+      "pikeIndex": "680",
+      "title": "Ripley Scroll",
+      "length": "17:17"
     },
     {
       "year": "2025",
-      "overallIndex": "681",
-      "pikeIndex": "The Hearing Forest",
-      "title": "15:14",
-      "length": "September 18 (download edition)"
+      "pikeIndex": "681",
+      "title": "The Hearing Forest",
+      "length": "15:14"
     },
     {
       "year": "2025",
-      "overallIndex": "744",
-      "pikeIndex": "Mirror Face Counseling",
-      "title": "21:12",
-      "length": "December 14 (download edition)"
+      "pikeIndex": "744",
+      "title": "Mirror Face Counseling",
+      "length": "21:12"
     },
     {
       "year": "2025",
-      "overallIndex": "745",
-      "pikeIndex": "Disembodied Mirrors : Cube 1",
-      "title": "20:24",
-      "length": "December 16 (download edition)"
+      "pikeIndex": "745",
+      "title": "Disembodied Mirrors : Cube 1",
+      "length": "20:24"
     },
     {
       "year": "2025",
-      "overallIndex": "746",
-      "pikeIndex": "The Journey Has Many Steps",
-      "title": "19:53",
-      "length": "December 19 (download edition)"
+      "pikeIndex": "746",
+      "title": "The Journey Has Many Steps",
+      "length": "19:53"
     },
     {
       "year": "2025",
-      "overallIndex": "747",
-      "pikeIndex": "Dreams Are Never Lost",
-      "title": "19:20",
-      "length": ""
+      "pikeIndex": "747",
+      "title": "Dreams Are Never Lost",
+      "length": "19:20"
     },
     {
       "year": "2025",
-      "overallIndex": "748",
-      "pikeIndex": "Dance in Waterfalls",
-      "title": "19:09",
-      "length": "December 20 (download edition)"
+      "pikeIndex": "748",
+      "title": "Dance in Waterfalls",
+      "length": "19:09"
     },
     {
       "year": "2025",
-      "overallIndex": "749",
-      "pikeIndex": "Disembodied Mirrors : Cube 2 Once in the Vessel Always in the Vessel",
-      "title": "19:51",
-      "length": ""
+      "pikeIndex": "749",
+      "title": "Disembodied Mirrors : Cube 2 Once in the Vessel Always in the Vessel",
+      "length": "19:51"
     },
     {
       "year": "2025",
-      "overallIndex": "750",
-      "pikeIndex": "Disembodied Mirrors : Cube 3",
-      "title": "19:44",
-      "length": "December 23 (download edition)"
+      "pikeIndex": "750",
+      "title": "Disembodied Mirrors : Cube 3",
+      "length": "19:44"
     },
     {
       "year": "2025",
-      "overallIndex": "751",
-      "pikeIndex": "Disembodied Mirrors : Cube 4",
-      "title": "19:43",
-      "length": ""
+      "pikeIndex": "751",
+      "title": "Disembodied Mirrors : Cube 4",
+      "length": "19:43"
     },
     {
       "year": "2025",
-      "overallIndex": "752",
-      "pikeIndex": "Slow Motion Roller Coaster",
-      "title": "19:20",
-      "length": ""
+      "pikeIndex": "752",
+      "title": "Slow Motion Roller Coaster",
+      "length": "19:20"
     },
     {
       "year": "2025",
-      "overallIndex": "753",
-      "pikeIndex": "Disembodied Mirrors : Cube 5",
-      "title": "19:44",
-      "length": ""
+      "pikeIndex": "753",
+      "title": "Disembodied Mirrors : Cube 5",
+      "length": "19:44"
     },
     {
       "year": "2025",
-      "overallIndex": "754",
-      "pikeIndex": "Disembodied Mirrors : Cube 6",
-      "title": "19:39",
-      "length": ""
+      "pikeIndex": "754",
+      "title": "Disembodied Mirrors : Cube 6",
+      "length": "19:39"
     },
     {
       "year": "2025",
-      "overallIndex": "755",
-      "pikeIndex": "Disembodied Mirrors : Cube 7",
-      "title": "19:49",
-      "length": ""
+      "pikeIndex": "755",
+      "title": "Disembodied Mirrors : Cube 7",
+      "length": "19:49"
     },
     {
       "year": "2025",
-      "overallIndex": "756",
-      "pikeIndex": "Velveteen Robot",
-      "title": "19:31",
-      "length": ""
+      "pikeIndex": "756",
+      "title": "Velveteen Robot",
+      "length": "19:31"
     },
     {
       "year": "2025",
-      "overallIndex": "758",
-      "pikeIndex": "Secret of the Mummy’s Tomb",
-      "title": "19:53",
-      "length": "December 24 (download edition)"
+      "pikeIndex": "758",
+      "title": "Secret of the Mummy’s Tomb",
+      "length": "19:53"
     },
     {
       "year": "2025",
-      "overallIndex": "759",
-      "pikeIndex": "Disembodied Mirrors : Cube 8",
-      "title": "19:49",
-      "length": ""
+      "pikeIndex": "759",
+      "title": "Disembodied Mirrors : Cube 8",
+      "length": "19:49"
     },
     {
       "year": "2025",
-      "overallIndex": "763",
-      "pikeIndex": "Rich Innerworld Is Always Available",
-      "title": "18:50",
-      "length": "December 31 (download edition)"
+      "pikeIndex": "763",
+      "title": "Rich Innerworld Is Always Available",
+      "length": "18:50"
     },
     {
       "year": "2025",
-      "overallIndex": "764",
-      "pikeIndex": "Gratefulness",
-      "title": "19:21",
-      "length": ""
+      "pikeIndex": "764",
+      "title": "Gratefulness",
+      "length": "19:21"
     },
     {
       "year": "2025",
-      "overallIndex": "765",
-      "pikeIndex": "The Tears That Become Teachers",
-      "title": "20:03",
-      "length": ""
+      "pikeIndex": "765",
+      "title": "The Tears That Become Teachers",
+      "length": "20:03"
     },
     {
       "year": "2026",
-      "overallIndex": "766",
-      "pikeIndex": "The Dawn Mist",
-      "title": "18:38",
-      "length": "January 7 (download edition)"
+      "pikeIndex": "766",
+      "title": "The Dawn Mist",
+      "length": "18:38"
     },
     {
       "year": "2026",
-      "overallIndex": "767",
-      "pikeIndex": "Sacred Lake",
-      "title": "20:02",
-      "length": ""
+      "pikeIndex": "767",
+      "title": "Sacred Lake",
+      "length": "20:02"
     },
     {
       "year": "2026",
-      "overallIndex": "768",
-      "pikeIndex": "Backward Down the Stairway",
-      "title": "19:02",
-      "length": ""
+      "pikeIndex": "768",
+      "title": "Backward Down the Stairway",
+      "length": "19:02"
     },
     {
       "year": "2026",
-      "overallIndex": "769",
-      "pikeIndex": "Whispering Phantoms",
-      "title": "19:34",
-      "length": ""
+      "pikeIndex": "769",
+      "title": "Whispering Phantoms",
+      "length": "19:34"
     },
     {
       "year": "2026",
-      "overallIndex": "770",
-      "pikeIndex": "Eyelids of Sunrise",
-      "title": "16:30",
-      "length": ""
+      "pikeIndex": "770",
+      "title": "Eyelids of Sunrise",
+      "length": "16:30"
     },
     {
       "year": "2026",
-      "overallIndex": "772",
-      "pikeIndex": "Metal Looked Vessels",
-      "title": "19:44",
-      "length": "January 9 (download edition)"
+      "pikeIndex": "772",
+      "title": "Metal Looked Vessels",
+      "length": "19:44"
     },
     {
       "year": "2026",
-      "overallIndex": "773",
-      "pikeIndex": "Disembodied Mirrors Action Figures on a Stick",
-      "title": "22:07",
-      "length": ""
+      "pikeIndex": "773",
+      "title": "Disembodied Mirrors Action Figures on a Stick",
+      "length": "22:07"
     },
     {
       "year": "2026",
-      "overallIndex": "774",
-      "pikeIndex": "Joyous Holidays Melancholy Holidays",
-      "title": "19:34",
-      "length": ""
+      "pikeIndex": "774",
+      "title": "Joyous Holidays Melancholy Holidays",
+      "length": "19:34"
     },
     {
       "year": "2026",
-      "overallIndex": "796",
-      "pikeIndex": "Help In Producing Peacefull Individual Existence",
-      "title": "21:42",
-      "length": "March 5 (download edition)"
+      "pikeIndex": "796",
+      "title": "Help In Producing Peacefull Individual Existence",
+      "length": "21:42"
     },
     {
       "year": "2026",
-      "overallIndex": "797",
-      "pikeIndex": "Decaying",
-      "title": "19:03",
-      "length": ""
+      "pikeIndex": "797",
+      "title": "Decaying",
+      "length": "19:03"
     },
     {
       "year": "2026",
-      "overallIndex": "798",
-      "pikeIndex": "More Decaying",
-      "title": "16:44",
-      "length": ""
+      "pikeIndex": "798",
+      "title": "More Decaying",
+      "length": "16:44"
     },
     {
       "year": "2026",
-      "overallIndex": "799",
-      "pikeIndex": "Echocoaster",
-      "title": "18:32",
-      "length": ""
+      "pikeIndex": "799",
+      "title": "Echocoaster",
+      "length": "18:32"
     },
     {
       "year": "2026",
-      "overallIndex": "800",
-      "pikeIndex": "Mirror Monoliths",
-      "title": "20:44",
-      "length": ""
+      "pikeIndex": "800",
+      "title": "Mirror Monoliths",
+      "length": "20:44"
     },
     {
       "year": "2026",
-      "overallIndex": "801",
-      "pikeIndex": "Space Chalk",
-      "title": "18:35",
-      "length": ""
+      "pikeIndex": "801",
+      "title": "Space Chalk",
+      "length": "18:35"
     },
     {
       "year": "2026",
-      "overallIndex": "802",
-      "pikeIndex": "Full Color Iron-on Transfers",
-      "title": "18:52",
-      "length": "March 6 (download edition)"
+      "pikeIndex": "802",
+      "title": "Full Color Iron-on Transfers",
+      "length": "18:52"
     },
     {
       "year": "2026",
-      "overallIndex": "803",
-      "pikeIndex": "Sheets Of Mercury",
-      "title": "18:08",
-      "length": "March 10 (download edition)"
+      "pikeIndex": "803",
+      "title": "Sheets Of Mercury",
+      "length": "18:08"
     },
     {
       "year": "2026",
-      "overallIndex": "804",
-      "pikeIndex": "Nix Olympica Station",
-      "title": "18:55",
-      "length": ""
+      "pikeIndex": "804",
+      "title": "Nix Olympica Station",
+      "length": "18:55"
     },
     {
       "year": "2026",
-      "overallIndex": "805",
-      "pikeIndex": "Mirror Sea",
-      "title": "20:51",
-      "length": "March 11 (download edition)"
+      "pikeIndex": "805",
+      "title": "Mirror Sea",
+      "length": "20:51"
     },
     {
       "year": "2026",
-      "overallIndex": "806",
-      "pikeIndex": "Disembodied Heads",
-      "title": "19:06",
-      "length": ""
+      "pikeIndex": "806",
+      "title": "Disembodied Heads",
+      "length": "19:06"
     },
     {
       "year": "2026",
-      "overallIndex": "807",
-      "pikeIndex": "Fludds Memory Theatre",
-      "title": "19:25",
-      "length": "March 12 (download edition)"
+      "pikeIndex": "807",
+      "title": "Fludds Memory Theatre",
+      "length": "19:25"
     },
     {
       "year": "2026",
-      "overallIndex": "808",
-      "pikeIndex": "Mining The Mercury",
-      "title": "16:06",
-      "length": ""
+      "pikeIndex": "808",
+      "title": "Mining The Mercury",
+      "length": "16:06"
+    },
+    {
+      "year": "2026",
+      "pikeIndex": "809",
+      "title": "Horseless Carriage",
+      "length": "13:31"
+    },
+    {
+      "year": "2026",
+      "pikeIndex": "810",
+      "title": "Always Searching Always Finding",
+      "length": "20:44"
     }
   ],
   "LiveAlbums": [
