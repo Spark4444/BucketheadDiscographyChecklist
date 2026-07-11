@@ -4,7 +4,8 @@ const finalData = {
   LiveAlbums: [],
   SpecialReleases: [],
   Eps: [],
-  collabs: []
+  CollaborationsAndProjects: [],
+  GuestAppearances: [],
 };
 
 // General function to parse a table and return an array of objects
@@ -94,6 +95,22 @@ finalData.Eps = parseTable(eps, ["albumDetails"]).map(({ year, albumDetails }) =
 }));
 
 
+const collaborations = document.querySelector('[aria-labelledby="Bands_and_projects"]');
+const collabs = collaborations.querySelectorAll("section");
+
+finalData.CollaborationsAndProjects = Array.from(collabs).map((collab) => {
+    const titleElement = collab.querySelector("h3");
+    const projects = collab.querySelectorAll("li");
+    const projectYearAndTitle = Array.from(projects).map((project) => {
+        const [year, title] = project.textContent.split(":").map((part) => part.trim());
+        return { year, title };
+    });
+
+    return {
+        title: titleElement ? titleElement.textContent.trim() : "",
+        projects: projectYearAndTitle
+    };
+});
 
 
 console.log(finalData);
