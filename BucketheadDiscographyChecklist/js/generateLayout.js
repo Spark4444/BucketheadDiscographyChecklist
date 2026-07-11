@@ -31,12 +31,8 @@ function generateItemDetails(item) {
     const itemDetailsDiv = document.createElement("div");
     itemDetailsDiv.classList.add("itemDetails");
     itemDetailsDiv.innerHTML = `
+        <div class="itemText">${item.overallIndex ? `${item.overallIndex}. ` : item.pikeIndex ? ` ${item.pikeIndex}. ` : ""}"${item.title}"${item.length ? ` (${item.length})` : ""} - ${item.year}</div>
         <input type="checkbox" class="itemCheckbox" />
-        <div class="itemTitle">${item.title}</div>
-        <div class="itemYear">${item.year}</div>
-        ${item.length ? `<div class="itemLength">${item.length}</div>` : ""}
-        ${item.overallIndex ? `<div class="itemOverallIndex">${item.overallIndex}</div>` : ""}
-        ${item.pikeIndex ? `<div class="itemPikeIndex">${item.pikeIndex}</div>` : ""}
     `;
     return itemDetailsDiv;
 }

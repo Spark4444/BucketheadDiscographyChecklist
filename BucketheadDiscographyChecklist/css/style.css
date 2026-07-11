@@ -1,18 +1,75 @@
+:root {
+    --background-color: #2a292f;
+    --color: white;
+    --secondary-background-color: #322d41;
+    --highlight-color: #5a2f4a;
+}
+
 .pages {
     display: flex;
     align-items: center;
     justify-content: space-evenly;
     width: 100%;
-    position: fixed;
+    height: 8vh;
+    background: var(--secondary-background-color);
+    color: var(--color);
+    position: sticky;
+    top: 0px;
 }
 
 .page {
     cursor: pointer;
+    height: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 15%;
+    font-size: 1.1vw;
+    transition: 0.5s linear;
+    border-left: 0.15vw solid var(--color);
+}
+
+.page:hover {
+    background: var(--highlight-color);
 }
 
 .html {
-    padding: 0;
-    margin: 0;
+    padding: 0px;
+    margin: 0px;
     box-sizing: border-box;
+}
+
+body {
+    background: var(--background-color);
     font-family: helvetica;
+    color: var(--color);
+    margin: 0px;
+    padding: 0px;
+    overflow-x: hidden;
+    overflow-y: scroll;
+}
+
+.active {
+    background: var(--highlight-color);
+}
+
+.itemDetails {
+    font-size: 1vw;
+    display: flex;
+    width: 100%;
+    align-items: center;
+    justify-content: flex-start;
+    margin: 2% 0;
+}
+
+.itemTitle {
+    font-size: 1.1vw;
+    font-weight: bold;
+    width: 100%;
+    padding: 0 0 0 1%;
+    margin: 4% 0;
+}
+
+.mainContent {
+    padding: 0 0 0 1%;
 }

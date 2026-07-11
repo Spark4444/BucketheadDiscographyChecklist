@@ -20,7 +20,6 @@ function loadRoute(section) {
 
   loadPageContent(normalizedSection);
   setActivePage(normalizedSection);
-  document.title = `Buckethead Discography Checklist — ${camelCaseToTitleCase(normalizedSection)}`;
 }
 
 function handleRouteChange() {
