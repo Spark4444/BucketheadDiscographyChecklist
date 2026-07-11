@@ -3,120 +3,72 @@ const finalData = {
   Pikes: [],
   LiveAlbums: [],
   SpecialReleases: [],
-  Eps: [],
-  UnrealesedAlbums: [],
+  Eps: []
 };
 
-let Albums = document.querySelector("#mwHw");
-let trs = Albums.querySelectorAll("tr");
-
+// General function to parse a table and return an array of objects
 let currentYear = null;
-finalData.Albums = Array.from(trs).flatMap((tr, index) => {
-  if (index === 0) {
+let currentYearRowSpan = 0;
+function parseTable(tableSelector, fieldNames) {
+  const table = document.querySelector(tableSelector);
+  if (!table) {
     return [];
   }
 
-  const tds = tr.querySelectorAll("td");
+  const rows = table.querySelectorAll("tr");
 
-  const year = tds[0];
-  let hasTextAlignCenter = year.style.textAlign === "center";
+  return Array.from(rows).flatMap((tr, index) => {
+    if (index === 0) {
+      return []; // Skip the header row
+    }
 
-  if (hasTextAlignCenter) {
-    currentYear = year.textContent;
-  }
+    const tds = tr.querySelectorAll("td");
+    if (tds.length === 0) {
+      return []; // Skip rows without data cells
+    }
 
-  let shift = 0;
-  if (!hasTextAlignCenter) {
-    shift = 1;
-  }
+    const yearCell = tds[0];
+    // for example rowspan = 3 is 3 rows of same year
+    const rowSpan = parseInt(yearCell.getAttribute("rowspan"), 10);
+    let hasYearCell = false;
+    
 
-  const number = tds[1 - shift];
-  const title = tds[2 - shift];
-  const length = tds[3 - shift];
+    // if rowspan attribute exists and is greater than 0, then year is present
+    if (rowSpan > 0) {
+        hasYearCell = true;
+      currentYear = yearCell.textContent.trim();
+      currentYearRowSpan = rowSpan + 1;
+    }
+    
+    if (currentYearRowSpan > 0) {
+      currentYearRowSpan--;
+    }
 
-  const albumData = {
-    year: currentYear,
-    number: number.textContent,
-    title: title.textContent,
-    length: length.textContent,
-  };
+    // if currentYearRowSpan is less than 1, then the year cell is present in this row, so we should update the currentYear
+    if (currentYearRowSpan < 1) {
+      hasYearCell = true;
+      currentYear = yearCell.textContent.trim();
+    }
 
-  return [albumData];
-});
+    const shift = hasYearCell ? 0 : 1;
 
-let Pikes = document.querySelector("#mwAa8");
-trs = Pikes.querySelectorAll("tr");
+    let rowData = {
+        year: currentYear,
+    };
 
-currentYear = null;
-finalData.Pikes = Array.from(trs).flatMap((tr, index) => {
-  if (index === 0) {
-    return [];
-  }
+    // Populate the rowData object with the values from the table cells
+    fieldNames.forEach((fieldName, fieldIndex) => {
+      const cell = tds[fieldIndex + 1 - shift];
+      rowData[fieldName] = cell ? cell.textContent.trim() : "";
+    });
 
-  const tds = tr.querySelectorAll("td");
+    return [rowData];
+  });
+}
 
-  const year = tds[0];
-  let hasTextAlignCenter = year.style.textAlign === "center";
-
-  if (hasTextAlignCenter) {
-    currentYear = year.textContent;
-  }
-
-  let shift = 0;
-  if (!hasTextAlignCenter) {
-    shift = 1;
-  }
-
-  const number = tds[1 - shift];
-  const pikeNumber = tds[2 - shift];
-  const title = tds[3 - shift];
-  const length = tds[4 - shift];
-
-  const albumData = {
-    year: currentYear,
-    number: number.textContent,
-    pikeNumber: pikeNumber.textContent,
-    title: title.textContent,
-    length: length.textContent,
-  };
-
-  return [albumData];
-});
-
-
-let LiveAlbums = document.querySelector("#mwEmY");
-trs = LiveAlbums.querySelectorAll("tr");
-
-currentYear = null;
-finalData.LiveAlbums = Array.from(trs).flatMap((tr, index) => {
-  if (index === 0) {
-    return [];
-  }
-
-  const tds = tr.querySelectorAll("td");
-
-  const year = tds[0];
-  let hasTextAlignCenter = year.style.textAlign === "center";
-  
-  if (hasTextAlignCenter) {
-    currentYear = year.textContent;
-  }
-
-  let shift = 0;
-  if (!hasTextAlignCenter) {
-    shift = 1;
-  }
-
-  const pikeNumber = tds[1 - shift];
-  const title = tds[2 - shift];
-  const length = tds[3 - shift];
-
-  const albumData = {
-    year: currentYear,
-    pikeNumber: pikeNumber.textContent,
-    title: title.textContent,
-    length: length.textContent,
-  };
-
-  return [albumData];
-});
+finalData.Albums = parseTable("#mwHw", ["overallIndex", "title", "length"]);
+finalData.Pikes = parseTable("#mwAa8", ["overallIndex", "pikeIndex", "title", "length"]);
+finalData.LiveAlbums = parseTable("#mwEmY", ["pikeIndex", "title", "length"]);
+finalData.SpecialReleases = parseTable("#mwEhE", ["albumDetails"]);
+finalData.Eps = parseTable("#mwEkk", ["albumDetails"]);
+console.log(finalData);
