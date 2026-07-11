@@ -15,8 +15,8 @@ function generateLayout() {
     sections.forEach((section, index) => {
         const sectionDiv = document.createElement("div");
         sectionDiv.classList.add("page");
+        sectionDiv.dataset.section = section;
         sectionDiv.innerHTML = titleCaseSections[index];
-        sectionDiv.setAttribute("href", `${section}`);
         pages.appendChild(sectionDiv);
     });
 
@@ -34,7 +34,7 @@ function generateItemDetails(item) {
         <input type="checkbox" class="itemCheckbox" />
         <div class="itemTitle">${item.title}</div>
         <div class="itemYear">${item.year}</div>
-        <div class="itemLength">${item.length}</div>
+        ${item.length ? `<div class="itemLength">${item.length}</div>` : ""}
         ${item.overallIndex ? `<div class="itemOverallIndex">${item.overallIndex}</div>` : ""}
         ${item.pikeIndex ? `<div class="itemPikeIndex">${item.pikeIndex}</div>` : ""}
     `;
@@ -55,6 +55,7 @@ function loadPageContent(section) {
             const itemDiv = document.createElement("div");
             itemDiv.classList.add("section");
             mainContentDiv.appendChild(itemDiv);
+            itemDiv.innerHTML = `<div class="itemTitle">${item.title}</div>`;
 
             item.projects.forEach((project) => {
                 const projectDiv = generateItemDetails(project);
