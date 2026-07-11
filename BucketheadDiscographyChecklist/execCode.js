@@ -112,5 +112,25 @@ finalData.CollaborationsAndProjects = Array.from(collabs).map((collab) => {
     };
 });
 
+const guestAppearances = document.querySelector('[aria-labelledby="Guest_appearances"]');
+const guestAppearancesSections = guestAppearances.querySelectorAll("section");
+
+finalData.GuestAppearances = Array.from(guestAppearancesSections).map(
+  (section) => {
+    const titleElement = section.querySelector("h3");
+    const projects = section.querySelectorAll("li");
+    const projectYearAndTitle = Array.from(projects).map((project) => {
+      const split = project.textContent
+        .split(/[-–—]/)
+        .map((part) => part.trim());
+      return { year: split[0], title: split[split.length - 1] };
+    });
+
+    return {
+      title: titleElement ? titleElement.textContent.trim() : "",
+      projects: projectYearAndTitle,
+    };
+  },
+);
 
 console.log(finalData);
