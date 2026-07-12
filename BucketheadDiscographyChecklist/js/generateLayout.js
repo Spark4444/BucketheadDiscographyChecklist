@@ -35,6 +35,12 @@ function generateItemDetails(item) {
         <div class="itemText">${item.overallIndex ? `${item.overallIndex}. ` : ""}"${item.title}"${item.length ? ` (${item.length})` : ""} - ${item.year}</div>
         <input type="checkbox" class="itemCheckbox" />
     `;
+
+    const checkbox = itemDetailsDiv.querySelector(".itemCheckbox");
+    if (checkbox) {
+        attachCheckboxPersistence(checkbox, item.title);
+    }
+
     return itemDetailsDiv;
 }
 
