@@ -38,6 +38,7 @@ function generateItemDetails(item) {
 
     const checkbox = itemDetailsDiv.querySelector(".itemCheckbox");
     if (checkbox) {
+        checkbox.dataset.title = item.title;
         attachCheckboxPersistence(checkbox, item.title);
     }
 

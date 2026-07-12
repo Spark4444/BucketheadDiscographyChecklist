@@ -100,6 +100,27 @@ body {
     user-select: none;
 }
 
+.controlButtons {
+    display: flex;
+    gap: 0.8vw;
+}
+
+.controlButtons > * {
+    padding: 0.8vw 1vw;
+    border-radius: 0.8vw;
+    border: 0.1vw solid rgba(255, 255, 255, 0.12);
+    background: rgba(255, 255, 255, 0.05);
+    color: var(--text-color);
+    cursor: pointer;
+    font-size: 0.9vw;
+    transition: background 0.2s, border-color 0.2s, color 0.2s;
+}
+
+.controlButtons > *:hover {
+    background: rgba(143, 99, 185, 0.18);
+    border-color: rgba(143, 99, 185, 0.35);
+}
+
 .pageSearch {
     flex: 1;
     min-width: 20vw;

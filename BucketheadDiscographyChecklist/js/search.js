@@ -20,7 +20,12 @@ function createSearchInput() {
   searchInput.type = "search";
   searchInput.id = "pageSearch";
   searchInput.classList.add("pageSearch");
-  searchInput.placeholder = "Find song or item on this page";
+  searchInput.placeholder = "Find song on this page";
+
+  searchBar.appendChild(searchInput);
+
+  // Add visible-only controls for checkbox bulk actions.
+  createVisibilityControlButtons(searchBar);
 
   // Listener
   searchInput.addEventListener("input", () => {
@@ -30,8 +35,6 @@ function createSearchInput() {
       .replace(specialSymbolsRemovalRegex, "");
     applySearchToContent();
   });
-
-  searchBar.appendChild(searchInput);
 
   main.insertBefore(searchBar, main.firstChild);
 }
