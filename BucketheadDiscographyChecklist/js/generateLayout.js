@@ -28,7 +28,7 @@ function generateLayout() {
 }
 
 // Function to generate the details of an item from Object
-function generateItemDetails(item) {
+function generateItemDetails(item, section) {
     const itemDetailsDiv = document.createElement("div");
     itemDetailsDiv.classList.add("itemDetails");
     itemDetailsDiv.innerHTML = `
@@ -39,7 +39,8 @@ function generateItemDetails(item) {
     const checkbox = itemDetailsDiv.querySelector(".itemCheckbox");
     if (checkbox) {
         checkbox.dataset.title = item.title;
-        attachCheckboxPersistence(checkbox, item.title);
+        checkbox.dataset.section = section;
+        attachCheckboxPersistence(checkbox, section, item.title);
     }
 
     return itemDetailsDiv;
@@ -62,14 +63,14 @@ function loadPageContent(section) {
             itemDiv.innerHTML = `<div class="itemTitle">${item.title}</div>`;
 
             item.projects.forEach((project) => {
-                const projectDiv = generateItemDetails(project);
+                const projectDiv = generateItemDetails(project, section);
                 itemDiv.appendChild(projectDiv);
             });
         });
     }
     else {
         sectionData.forEach((item) => {
-            const itemDiv = generateItemDetails(item);
+            const itemDiv = generateItemDetails(item, section);
             mainContentDiv.appendChild(itemDiv);
         });
     }

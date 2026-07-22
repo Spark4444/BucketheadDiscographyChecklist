@@ -28,8 +28,9 @@ function updateVisibleCheckboxes(checkedState) {
   visibleCheckboxes.forEach((checkbox) => {
     checkbox.checked = checkedState;
     const title = checkbox.dataset.title;
-    if (title) {
-      setSongChecked(title, checkedState);
+    const section = checkbox.dataset.section;
+    if (section && title) {
+      setSongChecked(section, title, checkedState);
     }
   });
 }

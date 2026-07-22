@@ -21,30 +21,40 @@ function saveCheckedSongs(checkedSongs) {
 }
 
 // Sets the checked state of a song in localStorage
-function setSongChecked(title, isChecked) {
+function setSongChecked(section, title, isChecked) {
+  const normalizedSection = (section || "").trim();
   const normalizedTitle = (title || "").trim();
-  if (!normalizedTitle) return;
+  if (!normalizedSection || !normalizedTitle) return;
 
   const checkedSongs = getSavedCheckedSongs();
-  checkedSongs[normalizedTitle] = Boolean(isChecked);
+  if (!checkedSongs[normalizedSection] || typeof checkedSongs[normalizedSection] !== "object") {
+    checkedSongs[normalizedSection] = {};
+  }
+  checkedSongs[normalizedSection][normalizedTitle] = Boolean(isChecked);
   saveCheckedSongs(checkedSongs);
 }
 
 // Checks if a song is marked as checked in localStorage
-function isSongChecked(title) {
+function isSongChecked(section, title) {
+  const normalizedSection = (section || "").trim();
   const normalizedTitle = (title || "").trim();
-  if (!normalizedTitle) return false;
+  if (!normalizedSection || !normalizedTitle) return false;
 
   const checkedSongs = getSavedCheckedSongs();
+  if (checkedSongs[normalizedSection] && checkedSongs[normalizedSection][normalizedTitle] === true) {
+    return true;
+  }
+
+  // Legacy support for old storage format keyed by title only.
   return checkedSongs[normalizedTitle] === true;
 }
 
 // Attaches an event listener to a checkbox to persist its state in localStorage
-function attachCheckboxPersistence(checkbox, title) {
-  if (!checkbox || !title) return;
+function attachCheckboxPersistence(checkbox, section, title) {
+  if (!checkbox || !section || !title) return;
 
-  checkbox.checked = isSongChecked(title);
+  checkbox.checked = isSongChecked(section, title);
   checkbox.addEventListener("change", () => {
-    setSongChecked(title, checkbox.checked);
+    setSongChecked(section, title, checkbox.checked);
   });
 }
