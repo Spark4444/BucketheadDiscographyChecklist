@@ -7,6 +7,9 @@ This is a website that saves your progress on a checklist of Buckethead's discog
 # Usage 
 you can visit the website on [https://spark4444.github.io/BucketheadDiscographyChecklist/BucketheadDiscographyChecklist/index.html](https://spark4444.github.io/BucketheadDiscographyChecklist/BucketheadDiscographyChecklist/index.html).
 
+# Note 
+If the checklist stopped working after last update use localStorage.clear() in your browser's console to reset the checklist. This will clear all your progress, but it will fix the issue.
+
 # Features
 * Bulk buttons to clear or enable all checkboxes on the page that are currently visible.
 * Search bar to filter albums by title.
@@ -15,3 +18,5 @@ you can visit the website on [https://spark4444.github.io/BucketheadDiscographyC
 
 # Current state of this project
 Finished.
+
+TODO: ADD an export/import buttons
